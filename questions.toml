@@ -1,0 +1,692 @@
+# Ajout des questions pour les réseaux
+
+[network]
+label = "Network"
+
+[[network.questions]]
+question = "Comment dire en anglais 'Parc Informatique' ? "
+answers = ["IT Stock"]
+alternatives = ["IT Infrastructure","IT Park"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Transfert de fichier' ? "
+answers = ["File transfer"]
+alternatives = ["Transfer file","File transfered"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Bureau d'assistance' ? "
+answers = ["Help desk"]
+alternatives = ["Office assistance","Help me"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Réseau' ? "
+answers = ["Network"]
+alternatives = ["Computer","Social"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Système d'information' ? "
+answers = ["Computer System"]
+alternatives = ["System Computer","Information System"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Exploitation des réseaux' ? "
+answers = ["Network Operation"]
+alternatives = ["System Operation","Operation System"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Réseaux et télécoms' ? "
+answers = ["Networks and Telecoms"]
+alternatives = ["Network and Telecom","Telecom and Networks"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Infrastructure Système' ? "
+answers = ["System Infrastructure"]
+alternatives = ["Infrastructure System","Network System"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Application client-serveur' ? "
+answers = ["Client-server Application"]
+alternatives = ["Client-server communication","Application client-server"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Installer' et 'Désinstaller' ? "
+answers = ["Install","Uninstall"]
+alternatives = ["Download","Upload"]
+hint = "Il faut donner deux réponses."
+
+[[network.questions]]
+question = "Comment dire en anglais 'Redémarrer' ? "
+answers = ["To reboot"]
+alternatives = ["To restart","Shutdown"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Surveillance' ? "
+answers = ["Monitoring","Supervision"]
+alternatives = ["Supervise","Watch"]
+hint = "Il faut donner deeux réponses."
+
+[[network.questions]]
+question = "Comment dire en anglais 'Panneau de configuration' ? "
+answers = ["Control Panel"]
+alternatives = ["Control Pannel","Controle Panel"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Bureau d'assistance' ? "
+answers = ["Help desk"]
+alternatives = ["Office assistance","Help me"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Paramètres' ? "
+answers = ["Settings"]
+alternatives = ["Parameter","Setting"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Logiciel' ? "
+answers = ["Software"]
+alternatives = ["Hardware","Nowere"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Matériel Informatique' ? "
+answers = ["Hardware"]
+alternatives = ["Software","Nowere"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Imprimante' ? "
+answers = ["Printer"]
+alternatives = ["Pinter","Peintre"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Utilisateur' ? "
+answers = ["User"]
+alternatives = ["Person","Individual"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Serveur' ? "
+answers = ["Server","Host"]
+alternatives = ["Serveur","barman"]
+hint = "Il faut donner deux réponses."
+
+[[network.questions]]
+question = "Comment dire en anglais 'Sauvegarde' ? "
+answers = ["Backup"]
+alternatives = ["data store","save"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'base de données' ? "
+answers = ["database"]
+alternatives = ["basedata","dataset"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Flus de données' ? "
+answers = ["Data Flow"]
+alternatives = ["Flow Data","Data Stream"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Stokage de données' ? "
+answers = ["Data Storage"]
+alternatives = ["Data Safety","Data Flow"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Sécurité des données' ? "
+answers = ["Data Safety"]
+alternatives = ["Data Flow","Data Recording"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Saisie des données' ? "
+answers = ["Data Recording"]
+alternatives = ["Data Flow","Data Entry"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Restoration des données' ? "
+answers = ["Data Recovery"]
+alternatives = ["Data Storage","Data Center"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Nettoyage des données' ? "
+answers = ["Data Cleansing"]
+alternatives = ["Data cleaning","Data Washing"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Exploration de données' ? "
+answers = ["Data Mining"]
+alternatives = ["Data Eexploration","Data Scan"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Centre de données' ? "
+answers = ["Data Center"]
+alternatives = ["Data Mining","Data Flow"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Virtualisation des serveurs' ? "
+answers = ["Server Virtualization"]
+alternatives = ["Server Virtualisation","Server Virtulization"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Machine Virtuelle' ? "
+answers = ["Virtual Machine"]
+alternatives = ["Machine Virtual","Machina"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Apprentissage automatique' ? "
+answers = ["Machine Learning"]
+alternatives = ["Deep Larning","Automatic Learning"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Equipement téléphonique' ? "
+answers = ["Phone equipment"]
+alternatives = ["Phone equimpent","Phone equipement"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Gestion des accès' ? "
+answers = ["Access Management"]
+alternatives = ["Guest Access","Management Access"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Bande Passante' ? "
+answers = ["Bandwidth"]
+alternatives = ["Bandwidh","Bandwith"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Systeme de messagerie collaborative' ? "
+answers = ["Collaborative message system"]
+alternatives = ["Collaborative system message","Message collaborative system"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Invite de commande' ? "
+answers = ["Command prompt"]
+alternatives = ["Prompt command","Commande prompt"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Poste de travail' ? "
+answers = ["Workstation"]
+alternatives = ["Workspace","Worker"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Carte mémoire' ? "
+answers = ["Memory Card"]
+alternatives = ["Card Memory","Storage Card"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Carte mère' ? "
+answers = ["Motherboard"]
+alternatives = ["Motherbord","Motherbard"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Carton son' ? "
+answers = ["Sound card"]
+alternatives = ["Card sound","Noise card"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Processeur central' ? "
+answers = ["Central processor"]
+alternatives = ["Processor central","Central procesor"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Processeur graphique' ? "
+answers = ["Graphics processing unit"]
+alternatives = ["Graphics processing","Graphics processor"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Microprocesseur' ? "
+answers = ["Microprocessor","Microship"]
+alternatives = ["Microprocesor","Microchip"]
+hint = "Il faut donner deux réponses."
+
+[[network.questions]]
+question = "Comment dire en anglais 'Système d'exploitation' ? "
+answers = ["Operating system"]
+alternatives = ["System operating","Operating organisme"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Routeur' ? "
+answers = ["Router"]
+alternatives = ["Routeur","Route"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Gestionnaire de périphérique' ? "
+answers = ["Device manager"]
+alternatives = ["Peripheral manager","Device administrator"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Mémoire vive' ? "
+answers = ["Random access memory"]
+alternatives = ["Random asset memory","Random assault memory"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Répertoire racine' ? "
+answers = ["Root directory"]
+alternatives = ["Main directory","Root repertoire"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Exécuter un programme' ? "
+answers = ["To run a program"]
+alternatives = ["To build a program","To store a program"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Pile de protocoles' ? "
+answers = ["Protocole stack"]
+alternatives = ["Stack protocole","Stack protocol"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Mettre en œuvre les solutions aux problématiques techniques' ? "
+answers = ["Implement solutions to technical problems"]
+alternatives = ["Implement solutions to the technical problems","Implement solution to technical problem"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Choisir avec discernement des architectures performantes et sécurisées' ? "
+answers = ["Choose high-performance and secure architectures"]
+alternatives = ["Choose discernment secure and high-performance architectures","Choose performing and secure architectures"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Mener à bien les différentes évolutions du SI' ? "
+answers = ["Carry out the various developments in IS"]
+alternatives = ["Carry out developments in IS","Carry out the various technical evolution in IS"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Respecter les contraintes de qualité, de coûts et de délais' ? "
+answers = ["Meet quality, cost and time constraints"]
+alternatives = ["Respect constraints of quality, cost and time","Respect all the constraints of quality, cost and time"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Être l’expert des infrastructures techniques de son SI ' ? "
+answers = ["Be the expert on the technical infrastructure of your IS"]
+alternatives = ["Be the expert of the technical infrastructure of your IS","Be the expert on the technical infrastructure on your IS"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Piloter un projet d’infrastructure systèmes et réseaux' ? "
+answers = ["Lead a systems and networks infrastructure project"]
+alternatives = ["Manage a systems and networks infrastructure project","Pilot a systems and networks infrastructure project"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Recueillir, analyser et formaliser les besoins systèmes et réseaux de l’entreprise' ? "
+answers = ["Collect, analyze and formalize the company's systems and networks needs"]
+alternatives = ["Collect, analyze and formalize the company systems and networks need","Collect and formalize the company's systems and networks needs"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Assurer le maintien en condition opérationnelle du réseau et de l’architecture système de l’entreprise' ? "
+answers = ["Maintain the operational condition of the company's network and system architecture"]
+alternatives = ["Ensure maintenance of the company's network and system architecture","Provide the operational condition of the company's network and system archiecture"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Construire un cahier des charges' ? "
+answers = ["Build specifications"]
+alternatives = ["Build production specification","requirement specification"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Modéliser l’architecture systèmes et réseaux' ? "
+answers = ["Modeling systems and networks architecture"]
+alternatives = ["Design systems and networks architecture","Modeling systems and network design"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Valider, concevoir et mettre en œuvre les infrastructures systèmes et réseaux' ? "
+answers = ["Validate, design and implement systems and networks infrastructure"]
+alternatives = ["Validate, design and execute systems and networks infrastructure","Validate, plan and execute systems and networks infrastructure"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Communiquer et promouvoir un projet informatique' ? "
+answers = ["Communicate and promote a computer project"]
+alternatives = ["Communicate and promote a IT project","Communicate and promote a technology project"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Manager le service informatique et ses projets' ? "
+answers = ["Manage IT and its projects"]
+alternatives = ["Lead IT and its projects","Learn IT and its projects"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Maintenir et sécuriser les infrastructures informatiques' ? "
+answers = ["Maintain and secure IT infrastructure"]
+alternatives = ["Keep secure the IT infrastructure","Sustain and secure the IT infrastructure"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Analyser dans quelle mesure les logiciels, le matériel et le système informatique au sens plus large correspondent aux besoins de l’entreprise' ? "
+answers = ["Analyse how well software, hardware and the wider IT system fit the business needs"]
+alternatives = ["Analyse how software, hardware and the broader IT system fit the business need","Analyse how well software, hardware and the broader IT system fit the future needs"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Rédiger les besoins pour les nouveaux systèmes informatiques' ? "
+answers = ["Write requirements for new IT systems"]
+alternatives = ["Draw up requirement for new IT systems","Write requirement for new IT system"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Aider à la mise en œuvre de systèmes informatiques' ? "
+answers = ["Help implement IT systems"]
+alternatives = ["Help execute IT systems","Help implementation IT systems"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Surveiller l’efficacité des systèmes informatiques' ? "
+answers = ["Monitor the effectiveness of IT systems "]
+alternatives = ["Watch the effectiveness of the IT systems","Monitor the efficiency of the IT systems"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Animer une équipe' ? "
+answers = ["Lead a team"]
+alternatives = ["Manage a team","Have a team"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Accroître la performance et la réactivité de l’entreprise' ? "
+answers = ["Increase the company's performance and responsiveness"]
+alternatives = ["Expend the compagny performance and responsiveness","Expend the compagnie performance and responcive"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Ecouter, analyser et rédiger les besoins' ? "
+answers = ["Listen, analyze and write needs"]
+alternatives = ["Listen, analyse and wrie necessity","Listen, analize and write requirements"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Être garant de la pérennité et de l’évolution des solutions' ? "
+answers = ["Guarantee the sustainability and evolution of solutions"]
+alternatives = ["Responsible of the sustainability and evolution of solutions","Guarantee the continuity end evolution of solution"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Satisfaire les attentes du client' ? "
+answers = ["Meet client expectations "]
+alternatives = ["Answer client expectations","Fit client expectations"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Analyser et identifier tous les problèmes potentiels' ? "
+answers = ["Analyze and identify any potential problems"]
+alternatives = ["Analyse and identify potential problem","Analyze and identify any problems"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Avoir de solides compétences pour le travail en équipe ' ? "
+answers = ["Have strong team-working skills"]
+alternatives = ["Have strong team-working abilities","Have strong team-working faculties"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Diriger des projets collaboratifs' ? "
+answers = ["Lead collaborative projects"]
+alternatives = ["Run collaborative projects","Direct collaborative projects"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Définir les étapes clés de cycle de vie du projet ' ? "
+answers = ["Define key lifecycle milestones for the project"]
+alternatives = ["Define key lifecycle step for the project","Define lefecycle milestones for the project"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Être en mesure de gérer une liste de problèmes ou d’améliorations' ? "
+answers = ["Be able to manage a list of issues or improvements"]
+alternatives = ["Be abel to manage a list of issue or improvement","Be able manage list of issues improvements"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Connecter différents appareils ensemble pour former des réseaux rapides et efficaces' ? "
+answers = ["Connect different devices together to form fast and efficient networks"]
+alternatives = ["Connect some devices together to form fast ans strong networks","Link different devices to form fast networks"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Installer et configurer des réseaux et des systèmes informatiques' ? "
+answers = ["Install and configure computer networks and systems"]
+alternatives = ["Instal and confugure computer network and system","Install computer networks and system"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Consulter les clients' ? "
+answers = ["Consult with clients"]
+alternatives = ["Consult clients","Consult in clients"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Spécifier les besoins du système' ? "
+answers = ["Specify system requirements"]
+alternatives = ["Specify requirements","Specife system needs"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Concevoir des solutions' ? "
+answers = ["Design solutions"]
+alternatives = ["Plan solutions","Design needs"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Budgétiser l'équipement' ? "
+answers = ["Budget for equipment"]
+alternatives = ["Equipment budget","Budget equipment"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Assembler de nouveaux systèmes' ? "
+answers = ["Assemble new systems"]
+alternatives = ["Assembled new systems","Disable nex systems"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Maintenir les logiciels et le matériel existants' ? "
+answers = ["Maintain existing softare and hardware"]
+alternatives = ["Maintain existe software and hardware","Maintain software and hardware"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Mettre à niveau les logiciels et le matériel obsolètes' ? "
+answers = ["Upgrade obsolete software and hardware "]
+alternatives = ["Upgrade obselete software and hardware ","Downgrade obselete software and hardware "]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Surveiller les réseaux et les systèmes informatiques' ? "
+answers = ["Monitor computer networks and systems"]
+alternatives = ["Control computer network and system","Monitor computer networks systems"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Identifier comment améliorer les performances' ? "
+answers = ["Identify how performance can be improved"]
+alternatives = ["Identify how many performance can be improved","Identify how can the performance can be improved"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Travailler avec le personnel de support informatique' ? "
+answers = ["Work with IT support staff"]
+alternatives = ["Work IT support staff","Work with support staff"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Fournir l’administration et le support du réseau' ? "
+answers = ["Provide network administration and support"]
+alternatives = ["Supply network administration","Supply networks administration and supports"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Rédiger et mettre à jour les procédures et les consignes d’exploitation et de documentation' ? "
+answers = ["Write and update operating and documentation procedures and instructions"]
+alternatives = ["Write and update operating system and procedures","Write and update operating procedures and instructions"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Effectuer un suivi des équipements' ? "
+answers = ["Track equipment"]
+alternatives = ["Do a follow eqipment","Follow up equipment"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Sensibiliser les utilisateurs pour optimiser leur utilisation ' ? "
+answers = ["Raise awareness among users to optimize their use"]
+alternatives = ["Sensitizing users to optimize their use","Sensitizing users to upgrade their use of network"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Conseiller la DSI sur l’utilisation des ressources du système' ? "
+answers = ["Advise the CIO on the use of system resources"]
+alternatives = ["Advise the CEO on the use of system ressources","Advice the CTO on the use of system ressources"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Garantir l’optimisation des ressources systèmes' ? "
+answers = ["Ensure optimization for system resources"]
+alternatives = ["Guarantee optimisation for system ressource","Guarantee safety for system ressources"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Assurer une veille technologique' ? "
+answers = ["Ensure a technological watch"]
+alternatives = ["Do atechnological watch","Done a technological wtach"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Accompagner la stratégie de l’entreprise' ? "
+answers = ["Support the company's strategy"]
+alternatives = ["Make the compagny's strategy","Do the compagny's strategy"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Se tenir informé des tendances en évolution rapide' ? "
+answers = ["Keep up to date with fast-changing trends"]
+alternatives = ["Get inform of tendances and fast evolving","Get information of fast evolving"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Être en mesure de s’adapter aux différentes situations' ? "
+answers = ["Be able to adapt oneself to different situations"]
+alternatives = ["Be ablet to adapt to different situations","Be able to adapt imself to different situations"]
+
+[[network.questions]]
+question = "Comment dire en anglais 'Rechercher, diagnostiquer les bugs' ? "
+answers = ["Troubleshooting"]
+alternatives = ["Research, diagnose bugs","Research and disgnostic bugs"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Malicious action that involves deliberately using the address of another system instead of its own.'"
+answers = ["Address Spoofing / Usurpation d'adresse"]
+alternatives = ["Bug Bounty / Bug Bounty","Rootkit / Outil de dissimulation d'activité"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Network of zombie PCs remotely controlled by a hacker using bots to launch mass attacks.'"
+answers = ["Botnet / Réseau dee robots"]
+alternatives = ["Address Spoofing / Usurpation d'adresse","Encryption / Chiffrement"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'In cryptanalysis, brute force attack is an exhaustive search method. It consists of testing all possible combinations to find a password or key.'"
+answers = ["Brutforce / Force Brute"]
+alternatives = ["Buffer Overflow / Dépassement dee Tampon","Packet Filter / Filtre de Paquets"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A technique for exploiting a vulnerability in a program's code that does not properly verify the size of certain data it manipulates.'"
+answers = ["Buffer Owerflow / Dépassement de Tampon"]
+alternatives = ["Mock-up / Maquette","Critical path method / Chemin critique"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A bug bounty is a program that allows people to receive recognition and compensation after reporting bugs, anomalies, exploits and vulnerabilities on websites, applications or computer systems.'"
+answers = ["Bug Bounty / Bug Bounty"]
+alternatives = ["Phishing / Hameçonnage","Computer Fraud / Fraude Informatique"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Cryptographic transformation of data producing a cryptogram.'"
+answers = ["Encryption / Chiffrement"]
+alternatives = ["Key Loggers / Enregistrement de frappe","Stakeholders / Parties prenantes"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Hacking tool used to decode encrypted passwords.'"
+answers = ["Crack / Craquage informatique"]
+alternatives = ["Process Mapping / Cartographie des processus","Hazard / Aléa"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The distributed denial of service occurs as a result of parallelization of denial-of-service attacks simultaneously carried out by multiple systems against a single victim system.'"
+answers = ["Denial of servic attack - DDoS / Attaque par déni de service"]
+alternatives = ["Mailbot / Mailbot","Spam / Pourriel"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Flood is the attack that involves sending a large stream of data or packets to saturate a victim.'"
+answers = ["Flood / Déluge"]
+alternatives = ["Worm / Ver","Non-repudiation / Non-répudiation"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The SQL injection attack targets websites based on a database where parameters are switched to the database through SQL queries.'"
+answers = ["Injection SQL / Injection SQL"]
+alternatives = ["Crack / Craquage informatique","Trojan Horse / Cheval de Troie"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Software or hardware used by a malicious user to capture what a person is typing on the keyboard.'"
+answers = ["Key-loggeers / Enrigistreur de frappe"]
+alternatives = ["Computer Fraud / fraude Informatique","Rootkit / Outil dee dissimulation d'activité"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Malicious software that massively sends e-mail automatically without human intervention.'"
+answers = ["Mailbot / Mailbot"]
+alternatives = ["Spam / Pourriel","Computer Fraud / Fraude Informatique"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Fraudulent technique used by hackers to solicit sensitive personal or confidential information from Internet users.'"
+answers = ["Phishing / Hameçonnage"]
+alternatives = ["Weeb Bug / Mouchard Internet","Packet Filter / Filtre dee Paquets"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Denotes electronic communication, including e-mail, unsolicited by recipients, massively shipped for advertising or dishonest purposes.'"
+answers = ["Spam / Pourriel"]
+alternatives = ["Mailbot / Mailbot","Crack / Craquage informatique"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'An extortion form imposed by malicious code on a user of the system.'"
+answers = ["Ransomware / Chantage"]
+alternatives = ["Computer Fraud / Fraudee Informatique","Worm / Ver"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Any program or set of programs used to conceal activity, malicious or not, on a machine.'"
+answers = ["Rootkit / Outil de dissimulation d'activité"]
+alternatives = ["Address Spoofing / Usurpation d'adresse","Bug Bounty / Bug Bounty"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Creating a large number of processes very quickly in order to saturate the available space within the list of processes kept by the operating system.'"
+answers = ["Fork Bomb / Bombe Logique"]
+alternatives = ["Trojan Horse / Cheval de troie","Spam / Pourriel"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A seemingly useful and harmless program with additional hidden code to collect, exploit, falsify or destroy data illegally.'"
+answers = ["Trojan Horse / Cheval de troie"]
+alternatives = ["Computer Fraud / Fraudee Informatique","Crack / Craquage informatique"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Weakness in security procedures, administrative controls, internal controls, and others.'"
+answers = ["Vulnerability / Vulnérabilité"]
+alternatives = ["Captcha Breaking / Cassage de Captacha","Non-repudiation / Non-répudiation"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Bug, under the appearance of an image placed on a web page, measures traffic or collects information about the user.'"
+answers = ["Web Bug / Mouchard Internet"]
+alternatives = ["Captcha Breaking / Cassage de Captacha","Trojan Horse / Cheval de troie"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Program reproducing from machine to machine through network connections and information systems when it spreads.'"
+answers = ["Worm / ver"]
+alternatives = ["Web Bug / Mouchard Internet","Bug Bounty / Bug Bounty"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Captcha breaking is the set of software techniques that automatically complete forms protected by a captcha.'"
+answers = ["Captcha Breaking / Cassage de Captacha"]
+alternatives = ["Vulnerability / Vulnérabilité","Fork Bomb / Bombe Logique"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Inspects each package to find a user-defined type of content, such as an IP address, but does not track the status of the sessions.'"
+answers = ["Packet Filter / Filtre de Paquets"]
+alternatives = ["Computer Fraud / Fraude Informatique","Bruteforcee / Force Brute"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Computer crimes involving data modification in order to derive something of value from it.'"
+answers = ["Computer Fraud / Fraude Informatique"]
+alternatives = ["Flood / Déluge","Address Spoofing / Usurpation d'adresse"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A method by which the data sender gives proof of shipment and the recipient is assured of the identity of the sender, so that no one can subsequently deny having processed that data.'"
+answers = ["Non-repudiation / Non-répudiation"]
+alternatives = ["Fork Bomb / Bombe Logique","Key Loggers / Enrigistreur de Frappe"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
+answers = [""]
+alternatives = ["",""]
+
+
+
+
+
+# ajout des questions pour les developpeurs
+
+[dev]
+label = "Dev"
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Logiciel' ? "
+answers = ["Software"]
+alternatives = ["Hardware","Nowere"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Cahier des charges' ? "
+answers = ["Specifications"]
+alternatives = ["Book specification","Requirements specification"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Navigateur' ? "
+answers = ["Browser"]
+alternatives = ["Navigate","Bowser"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Moteur de recherche' ? "
+answers = ["Search Engine"]
+alternatives = ["Search Motor","Research engine"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Programmation' ? "
+answers = ["Programming"]
+alternatives = ["Planning","Stealing"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Nom de domaine' ? "
+answers = ["Domain Name"]
+alternatives = ["Name Domain","Field Name"]
