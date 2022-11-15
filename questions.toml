@@ -648,6 +648,126 @@ answers = ["Non-repudiation / Non-répudiation"]
 alternatives = ["Fork Bomb / Bombe Logique","Key Loggers / Enrigistreur de Frappe"]
 
 [[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Strengths, Weaknesses, Opportunities and Threats. Business strategy tool that determines the options available in a strategic area of activity.'"
+answers = ["Analyse SWOT / SWOT analysis"]
+alternatives = ["Architecture orintée service (AOS) / Service-oriented architecture (SOA)","Chemin critique / Critical apth method (CPM)"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The purpose of an organization's master plan is to provide strategic directions in a forward-looking manner in order to roughly define the articulation of the achievement of the main objectives over time. It thus allows to set priorities in terms of achieving the objectives and to give visibility on the ambitions of the organization.'"
+answers = ["Schéma directeur / Master plan"]
+alternatives = ["Cartographie des processus / Process mapping","VICA / VUCA"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Graphic representation of an organization's processes. It highlights the link between the tasks that make up the process and their sequence.'"
+answers = ["Cartographie des processus / Process mapping"]
+alternatives = ["Analyse SWOT / SWOT analysis","Parties prenantes / Stakeholders"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Service-oriented architecture is a software development model based on distributed application components with discovery, access control, data mapping and security features.'"
+answers = ["Architecture orintée service (AOS) / Service-oriented architecture (SOA)"]
+alternatives = ["Jalons / Milstones","Structure organisationnelle / Organizational structure"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A cloud service model where the user can access an app directly in rental mode.'"
+answers = ["Logiciel à la demande / Software as a service (SaaS)"]
+alternatives = ["Cachier des charges / Scope statement","Schéma directeur / Master plan"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The use case corresponds to a set of actions carried out by the system in interaction with the actors for a purpose.'"
+answers = ["Cas d'utilisation / Use case"]
+alternatives = ["Analyse SWOT / SWOT analysis","Comité de pilotage / Steering committee"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The scope statement or specifications is a document that defines the framing of a project as a whole. Needs, objectives, constraints, expected functionalities, deadlines and budget are formalized in the most accurate way possible.'"
+answers = ["Cachier des charges / Scope statement"]
+alternatives = ["Logiciel à la demande / Software as a service (SaaS)","Maquette / Mock-up"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A milestone, in project management, is the end of a stage, the end of a job.'"
+answers = ["Jalons / Milstones"]
+alternatives = ["Suivi d'avancement projet / Project progress monitoring","Aléa / Hazard"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A critical path refers to the orderly list of operations necessary to achieve the desired result, the total duration of which gives the duration of the project.'"
+answers = ["Chemin critique / Critical path method (CPM)"]
+alternatives = ["Maquette / Mock-up","Appel d'offres / Invitation to tender (ITT)"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The purpose of project progress monitoring (or follow-up of project tasks or activities) is to ensure that the project is proceeding in accordance with the established schedule and that human, material and financial resources are well defined and used wisely.'"
+answers = ["Suivi d'avancement projet / Project progress monitoring"]
+alternatives = ["Analyse de la valeur / Value analysis","Cartographie des processus / Process mapping"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A stakeholder is a group of individuals who can influence or be influenced by the achievement of a company's goals.'"
+answers = ["Stakeholders / Parties prenantes"]
+alternatives = ["Cachier des charges / Scope statement","Architecture orintée service (AOS) / Service-oriented architecture (SOA)"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A steering committee is the group of executives responsible for ensuring the smooth running of a project within a company.'"
+answers = ["Comité de pilotage / Steering committee"]
+alternatives = ["Aléa / Hazard","Chaîne logitique / Supply chain"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'An invitation to tender is a formal, structured procedure for generating competing offers from different potential suppliers or contractors.'"
+answers = ["Appel d'offres / Invitation to tender (ITT)"]
+alternatives = ["Veille technologique / Technological watch","Structure organisationnelle / Organizational structure"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Based on functional analysis, this technique allows to optimize choices from an economic perspective in order to limit itself to the necessary and to focus on the real needs of the customer.'"
+answers = ["Analyse de valeur / Value analysis"]
+alternatives = ["Suivi d'avancement projet / Project progress monitoring","Jalons / Milstones"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A hazard is the unpredictable turn that an event can take.'"
+answers = ["Aléa / Hazard"]
+alternatives = ["Schéma directeur / Master plan","Cas d'utilisation / Use case"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A mock-up is a partial or complete representation of a system or object (existing or in project) in order to test and validate certain aspects and/or behavior (functional model).'"
+answers = ["Maquette / Mock-up"]
+alternatives = ["Bilan projet / Endorsement","Accompagnement au changement / Change management"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Organizational Breakdown Structure (OBS) is a diagram that represents the responsibilities of each member for each task of a project.'"
+answers = ["Structure organisationnelle (du projet) / Organizational Breakdown Structure (OBS)"]
+alternatives = ["Organisation apprenante / Learning organization","VICA / VUCA"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'An endorsement is an act by which an act in progress is amended by correcting, removing, or adding certain provisions.'"
+answers = ["Avenant / Endorsement"]
+alternatives = ["Chaîne logistique / Supply Chain","Chemin critique / Critical path method (CPM)"]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
+answers = [""]
+alternatives = ["",""]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
+answers = [""]
+alternatives = ["",""]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
+answers = [""]
+alternatives = ["",""]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
+answers = [""]
+alternatives = ["",""]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
+answers = [""]
+alternatives = ["",""]
+
+[[network.questions]]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
+answers = [""]
+alternatives = ["",""]
+
+[[network.questions]]
 question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
 answers = [""]
 alternatives = ["",""]
