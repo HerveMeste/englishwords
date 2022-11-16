@@ -92,6 +92,7 @@ def run_quiz():
         print(f"\nQuestion {num}:")
         num_correct += ask_question(question)
 
+    # Détermination des notes en fonction des réponses
     note=(100*num_correct)/num
     if note >= 80:
         print("\nYou have obtained the grade A.")

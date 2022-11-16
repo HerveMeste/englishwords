@@ -738,42 +738,39 @@ answers = ["Avenant / Endorsement"]
 alternatives = ["Chaîne logistique / Supply Chain","Chemin critique / Critical path method (CPM)"]
 
 [[network.questions]]
-question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
-answers = [""]
-alternatives = ["",""]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The project is reviewed with the entire team at several stages of the project, through intermediate evaluations and a final assessment.'"
+answers = ["Bilan projet / Project assessment"]
+alternatives = ["Comité de pilotage / Steering committee","Suivi d'avancement projet / Project progress monitoring"]
 
 [[network.questions]]
-question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
-answers = [""]
-alternatives = ["",""]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'A learning organization is a human organization (business, administration, etc.) that implements a set of practices and arrangements to keep up with its ecosystem.'"
+answers = ["Organisation apprenante / Learning organization"]
+alternatives = ["Accompagnement au changement / Change management","Appel d'offres / Invitation to tender (ITT)"]
 
 [[network.questions]]
-question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
-answers = [""]
-alternatives = ["",""]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The supply chain represents the entire network that allows the delivery of products or services from raw materials to end customers.'"
+answers = ["Chaîne  logistique / Supply chain"]
+alternatives = ["Analyse de la valeur / Value analysis","Organisation apprenante / Learning organization"]
 
 [[network.questions]]
-question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
-answers = [""]
-alternatives = ["",""]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Technological watch or scientific and technical watch consists of systematic information about the latest techniques and especially about their commercial availability.'"
+answers = ["Veille technologique / Technological watch"]
+alternatives = ["Suivi d'avancement projet / Project progress monitoring","Cachier des charges / Scope statement"]
 
 [[network.questions]]
-question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
-answers = [""]
-alternatives = ["",""]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'VUCA is an acronym used to describe or question volatility, uncertainty, complexity and ambiguity of conditions and situations.'"
+answers = ["VICA / VUCA"]
+alternatives = ["Schéma directeur / Master plan","Bilan projet / Endorsement"]
 
 [[network.questions]]
-question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
-answers = [""]
-alternatives = ["",""]
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'Change management is the set of operations carried out within an organization to enable it to adapt to change and change in the environment.'"
+answers = ["Accompagnement au changement / Change management"]
+alternatives = ["Veille technologique / Technological watch","Chemin critique / Critical path method (CPM)"]
 
 [[network.questions]]
-question = "Relier la définition suivante à son mot d'origine en anglais et français: ''"
-answers = [""]
-alternatives = ["",""]
-
-
-
+question = "Relier la définition suivante à son mot d'origine en anglais et français: 'The organizational structure of an organization is all its rules for the distribution of authority, tasks, control and coordination.'"
+answers = ["Structure organisationnelle / Organizational structure"]
+alternatives = ["Chemin critique / Critical path method (CPM)","Cas d'utilisation / Use case"]
 
 
 # ajout des questions pour les developpeurs
