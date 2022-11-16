@@ -92,6 +92,16 @@ def run_quiz():
         print(f"\nQuestion {num}:")
         num_correct += ask_question(question)
 
+    note=(100*num_correct)/num
+    if note >= 80:
+        print("\nYou have obtained the grade A.")
+    elif note >= 60 and note < 80:
+        print("\nYou have obtained the grade B.")
+    elif note >= 40 and note < 60:
+        print("\nYou have obtained the grade C.")
+    elif note >= 0 and note < 40:
+        print("\nYou have obtained the grade D.")
+
     print(f"\nYou got {num_correct} correct out of {num} questions")
 
 if __name__ == "__main__":

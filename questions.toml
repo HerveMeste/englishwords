@@ -440,7 +440,7 @@ alternatives = ["Equipment budget","Budget equipment"]
 [[network.questions]]
 question = "Comment dire en anglais 'Assembler de nouveaux systèmes' ? "
 answers = ["Assemble new systems"]
-alternatives = ["Assembled new systems","Disable nex systems"]
+alternatives = ["Assembled new systems","Disable new systems"]
 
 [[network.questions]]
 question = "Comment dire en anglais 'Maintenir les logiciels et le matériel existants' ? "
