@@ -805,5 +805,170 @@ alternatives = ["Planning","Stealing"]
 
 [[dev.questions]]
 question = "Comment dire en anglais 'Nom de domaine' ? "
-answers = ["Domain Name"]
-alternatives = ["Name Domain","Field Name"]
+answers = ["Domain name"]
+alternatives = ["Name domain","Domaine name"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Compte' ? "
+answers = ["Account"]
+alternatives = ["Accont","Accout"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Créer un compte' ? "
+answers = ["To sign up"]
+alternatives = ["Create account","To create account"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Utilisateur' ? "
+answers = ["User"]
+alternatives = ["Account","Other"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Définir un mot de passe' ? "
+answers = ["To set a password"]
+alternatives = ["Create a password","To create a password"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Identifiant' ? "
+answers = ["Username"]
+alternatives = ["User","Account"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Bibliothèque' ? "
+answers = ["Library"]
+alternatives = ["Lybrary","Lybrari"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Cadre de travail' ? "
+answers = ["Framework"]
+alternatives = ["Work environment","Framework environment"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Environnement de développement' ? "
+answers = ["Integrated development environment"]
+alternatives = ["Interest development environmen","Invest development environment"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Maintenance' ? "
+answers = ["Maintenance"]
+alternatives = ["upkeep","Backup"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Sauvegarde' ? "
+answers = ["Backup"]
+alternatives = ["Maintenance","Save"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Base de données' ? "
+answers = ["Database"]
+alternatives = ["Basedata","Backup"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Flux de données' ? "
+answers = ["Data flow"]
+alternatives = ["Database","Flow data"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Stockage de données' ? "
+answers = ["Data storage"]
+alternatives = ["Storage data","Backup"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Pare-feu' ? "
+answers = ["Firewall"]
+alternatives = ["Proxy","Server"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Logiciel espion' ? "
+answers = ["Spyware"]
+alternatives = ["Malware","Attack"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Bande passante' ? "
+answers = ["Bandwidth"]
+alternatives = ["Spyware","Firewall"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Interface de programmation' ? "
+answers = ["Application programming interface"]
+alternatives = ["Integrated development environment","IOS"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Balise' ? "
+answers = ["Markup"]
+alternatives = ["Tag","Marker"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Langage binaire' ? "
+answers = ["Binary language"]
+alternatives = ["Binarie language","Bynarie language"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Système de gestion de contenu' ? "
+answers = ["Content management system"]
+alternatives = ["Integrated development environment","Application programming interface"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Serveur' ? "
+answers = ["Server"]
+alternatives = ["Proxy","Firewall"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Service d'hébergement' ? "
+answers = ["Hosting service"]
+alternatives = ["Host server","Service hosting"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Plan de site' ? "
+answers = ["Sitemap"]
+alternatives = ["Site plan","Plan"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Site statique' ? "
+answers = ["Static site"]
+alternatives = ["Site static","Staid site"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Site dynamique' ? "
+answers = ["Dynamic site"]
+alternatives = ["Static site","Dinamic site"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Site animé' ? "
+answers = ["Animated site"]
+alternatives = ["Anime site","Animate site"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Refonte' ? "
+answers = ["Redesign"]
+alternatives = ["Recast","Design"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Charte graphique' ? "
+answers = ["Graphic charter"]
+alternatives = ["Graphic charte","Graphical charter"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Bannière' ? "
+answers = ["Banner"]
+alternatives = ["Baner","Bannered"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Référencement' ? "
+answers = ["Referencing"]
+alternatives = ["Reference","Referenced"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Optimisation pour les moteurs de recherche' ? "
+answers = ["Search eeengine optimization"]
+alternatives = ["Search engine advertising","Search Engine"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'référencement payent' ? "
+answers = ["Search engine advertising"]
+alternatives = ["Search engine optimization","Search Engine"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Référencement abusif' ? "
+answers = ["Spamdexing"]
+alternatives = ["Spam","Abusive referencing"]
