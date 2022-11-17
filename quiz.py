@@ -10,17 +10,11 @@ except ModuleNotFoundError:
 print("Welcome to the game called 'Quizz Game'")
 print("\nYou can play to practice your english and your technical vocabulary.")
 print("\n\nGood Game ! ;)")
-#NUM_QUESTIONS_PER_QUIZ=int(input("How many questions do you want ? "))
 QUESTIONS_PATH = pathlib.Path(__file__).parent / "questions.toml"
 
 print("\nIMPORTANT ! "
       "\n Si vous voyez ceci '?' dans les réponses, alors ça vous donnera un indice en tapant '?' dans les choix.")
 
-#test de comptage du nombre de questions
-#data = QUESTIONS_PATH.read_text()
-#occurences = data.count("dev.questions")
-
-#print(f"Il y a au total {occurences} questions pour les développeurs")
 
 def prepare_questions (path):
     topic_info = tomllib.loads(path.read_text())
@@ -104,9 +98,6 @@ def ask_question(question):
         return 0
 
 def run_quiz():
-#   questions = prepare_questions(
-#        QUESTIONS_PATH, num_questions=NUM_QUESTIONS_PER_QUIZ
-#    )
     questions = prepare_questions(
         QUESTIONS_PATH
     )

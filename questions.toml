@@ -1104,6 +1104,151 @@ answers = ["Design application architecture"]
 alternatives = ["Design the application architecture","Design an application architecture"]
 
 [[dev.questions]]
+question = "Comment dire en anglais 'Assurer la gestion des données' ? "
+answers = ["Ensure data management"]
+alternatives = ["Ansure the management of data","to ensure data management"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Sécuriser les applications' ? "
+answers = ["Secure applications"]
+alternatives = ["Secure application","Secure the applications"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Implémenter des solutions logicielles' ? "
+answers = ["Implement software solutions"]
+alternatives = ["Implemented software solutions","Implementing software solutions"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Créer des programmes' ? "
+answers = ["Build programs"]
+alternatives = ["Build program","Build the programs"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Écrire et tester le code' ? "
+answers = ["Write and test code"]
+alternatives = ["Writing and testing code","Writed and tested code"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Collaborer avec des développeurs' ? "
+answers = ["Collaborate with developers"]
+alternatives = ["Work with developpers","Cooperate with developers"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Utiliser des outils de développement' ? "
+answers = ["Use development tools"]
+alternatives = ["Using tools development","Use tools development tools"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Créer des applications ergonomiques' ? "
+answers = ["Create ergonomic applications"]
+alternatives = ["Created ergonomic applications","Create ergonomically applications"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Ecouter, analyser et rédiger les besoins' ? "
+answers = ["Listen, analyze and write needs"]
+alternatives = ["Listen, analyze and write need","Listen, analize and write needs"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Être garant de la pérennité et de l’évolution des solutions' ? "
+answers = ["To guarantee the sustainability and evolution of solutions"]
+alternatives = ["To guarantee the durability and evolution of solutions","To guarantee the permanence and evolution of solutions"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Respecter les délais, les coûts et la qualité ' ? "
+answers = ["Meet deadlines, costs and quality"]
+alternatives = ["Respect the deadlines, cost and quality","Respect deadlines, costs and quality"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Satisfaire les attentes du client' ? "
+answers = ["Meet client expectations"]
+alternatives = ["Meet client expectation","Satisfy client expectations"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Piloter un projet d’ingénierie logicielle' ? "
+answers = ["Lead a software engineering project"]
+alternatives = ["Lead a project of software engineering","Lead a project application engineering"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Construire un cahier des charges' ? "
+answers = ["Build specifications"]
+alternatives = ["Build requirements","Build book of charges"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Gérer les données de l’entreprise' ? "
+answers = ["Manage company data"]
+alternatives = ["Manage data entreprise","Manage all the data of the compagny"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Développer des applications mobiles' ? "
+answers = ["Develop mobile apps"]
+alternatives = ["Developing mobile apps","Developed mobile apps"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Accompagner la stratégie de l’entreprise' ? "
+answers = ["Support the company’s strategy"]
+alternatives = ["Accompagny the company'y strategy","Support the company strategy"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Suivre les principes et bonnes pratiques de développement' ? "
+answers = ["Follow development principles and best practices"]
+alternatives = ["Go to development pratices and principles","Follow development best practices and principles"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Analyser et identifier tous les problèmes potentiels' ? "
+answers = ["Analyze and identify any potential problems"]
+alternatives = ["Analyse and identify all the potential problems","Analyse and identify all of potential problems"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Améliorer et maintenir le logiciel à long terme' ? "
+answers = ["Improve and maintain the software in the long term"]
+alternatives = ["Upgrade and maintain software in long term","Upgrade and maintain the software in the long term"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Traduire le besoin du client en demandes fonctionnelles' ? "
+answers = ["Translate the client's need into functional demands"]
+alternatives = ["Translate the client need into demands","Translate the client's need into demands"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Analyser et décrire les tâches à réaliser par l’ordinateur' ? "
+answers = ["Analyze and describe the tasks to be performed by the computer"]
+alternatives = ["Analyse and describe the tasks to be run by the computer","Analyse and describe the tasks to be realize by the computer"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Déterminer et schématiser les fonctionnalités du logiciel' ? "
+answers = ["Determine and schematize the software functionalities"]
+alternatives = ["Determine and schematize the software needs","Determine and schematize the software features"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Déceler les défauts de programmation' ? "
+answers = ["Identify programming defects"]
+alternatives = ["Identify default programmation","Identity defects programming"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Effectuer des traitements par lot' ? "
+answers = ["Perform batch processes"]
+alternatives = ["Carry out treatments per batch","Carry out batch processes"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Contrôler les évolutions et les différentes versions du logiciel' ? "
+answers = ["Control developments and different versions of the software"]
+alternatives = ["Control the evolutions and the different versions of the software","Conttrol the evolving and the different versions of the software"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Maintenir en condition opérationnelle le logiciel' ? "
+answers = ["Keep the software in operational condition"]
+alternatives = ["Maintain in operational condition thee software","Hold the software in opertional condition"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Mettre en production à l’issue des phases de qualification et d’intégration' ? "
+answers = ["Put into production at the end of the qualification and integration phases"]
+alternatives = ["Put  production at the end of the integration phase","Put into production the end of qualification and integration phases"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Rédiger le code source qui constitue le corps du logiciel' ? "
+answers = ["Write the source code that forms the body of the software"]
+alternatives = ["Write the source code that constitues the body of the software","Write the code that constitues the body of the software"]
+
+[[dev.questions]]
 question = "Comment dire en anglais '' ? "
 answers = [""]
 alternatives = ["",""]
