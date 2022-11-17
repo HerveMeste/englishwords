@@ -6,25 +6,46 @@ try:
 except ModuleNotFoundError:
     import tomli as tomllib
 
-
-
-NUM_QUESTIONS_PER_QUIZ=int(input("How many questions do you want ? "))
+# Présentation du jeu
+print("Welcome to the game called 'Quizz Game'")
+print("\nYou can play to practice your english and your technical vocabulary.")
+print("\n\nGood Game ! ;)")
+#NUM_QUESTIONS_PER_QUIZ=int(input("How many questions do you want ? "))
 QUESTIONS_PATH = pathlib.Path(__file__).parent / "questions.toml"
 
 print("\nIMPORTANT ! "
       "\n Si vous voyez ceci '?' dans les réponses, alors ça vous donnera un indice en tapant '?' dans les choix.")
 
-def prepare_questions (path, num_questions):
+#test de comptage du nombre de questions
+#data = QUESTIONS_PATH.read_text()
+#occurences = data.count("dev.questions")
+
+#print(f"Il y a au total {occurences} questions pour les développeurs")
+
+def prepare_questions (path):
     topic_info = tomllib.loads(path.read_text())
     topics = {
         topic["label"]: topic["questions"] for topic in topic_info.values()
     }
     topic_label = get_answers(
-        question="Which topic do you want to be quizzed about ?",
+        question="\nWhich topic do you want to be quizzed about ?",
         alternatives=sorted(topics),
     )[0]
+
+    #Compter les questions pour les developpeur ou pour les réseaux
+    data = path.read_text()
+    questions_network = data.count("network.questions")
+    questions_dev = data.count("dev.questions")
+
+    #Choisir le nombre de question en fonction du choix fait
+    if topic_label == "Dev":
+        total_question = questions_dev
+    elif topic_label == "Network":
+        total_question = questions_network
+
     questions = topics[topic_label]
-    num_questions = min(num_questions, len(questions))
+    numbers_questions = int(input(f"How many questions do you want ? You can choose a maximum of {total_question} questions: \n"))
+    num_questions = min(numbers_questions, len(questions))
     return random.sample(questions, k=num_questions)
 
 def get_answers(question, alternatives, num_choices=1, hint=None):
@@ -83,8 +104,11 @@ def ask_question(question):
         return 0
 
 def run_quiz():
+#   questions = prepare_questions(
+#        QUESTIONS_PATH, num_questions=NUM_QUESTIONS_PER_QUIZ
+#    )
     questions = prepare_questions(
-        QUESTIONS_PATH, num_questions=NUM_QUESTIONS_PER_QUIZ
+        QUESTIONS_PATH
     )
 
     num_correct = 0
