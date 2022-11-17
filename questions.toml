@@ -972,3 +972,138 @@ alternatives = ["Search engine optimization","Search Engine"]
 question = "Comment dire en anglais 'Référencement abusif' ? "
 answers = ["Spamdexing"]
 alternatives = ["Spam","Abusive referencing"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Réseau social' ? "
+answers = ["Social Network"]
+alternatives = ["Network Social","Social networking"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Prottocole de transfert de fichier' ? "
+answers = ["File transfer protocol"]
+alternatives = ["Transfer file protocol","Protocol file transfered"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Paratge de fichier' ? "
+answers = ["File transfer"]
+alternatives = ["Transfered file","Filed trasnfer"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Télécharger' ? "
+answers = ["To download"]
+alternatives = ["To upload","Downloaded"]
+
+[[dev.questions]]
+question = "Comment dire en anglais '' ? "
+answers = [""]
+alternatives = ["",""]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Visite virtuelle' ? "
+answers = ["Virtual visit"]
+alternatives = ["Visit virtual","Virtualed visit"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Object intéractif' ? "
+answers = ["Interactive object"]
+alternatives = ["Hands-on object","Object hands-on"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Interface utilisateur graphique' ? "
+answers = ["Graphic user interface"]
+alternatives = ["Graphic user intelligence","Graphical users interfaces"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Prototype d'interface utilisateur' ? "
+answers = ["Mock-up"]
+alternatives = ["Graphic user interface prototype","Prototype graphic user interface"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Expérience utilisateur' ? "
+answers = ["User experience"]
+alternatives = ["Experience user","user experiment"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Maquette fonctionnelle d'un site' ? "
+answers = ["Wireframe"]
+alternatives = ["Fonctionnal site model","Fonctionnal model site"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Déclarer une variable en langage java' ? "
+answers = ["Declare a variable in java language"]
+alternatives = ["Declare variable java language","Declared variable in java language"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Utiliser des tableaux pour stocker plusieurs valeurs dans une seule variable' ? "
+answers = ["Use arrays to store multiple values in a single variable"]
+alternatives = ["Use arrays to store values in variable","Use multiple values in a single variable"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Créer une chaîne en java' ? "
+answers = ["Create a string in java "]
+alternatives = ["Create string","Creating string in java "]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Exécuter des boucles' ? "
+answers = ["Execute loops"]
+alternatives = ["Loops execute","Executing loops"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Effectuer une opération d'entrée ou de sortie' ? "
+answers = ["Perform an input or output operation"]
+alternatives = ["COmplete an input or output operation","Complete input or output operation"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Traiter une information représentée sous sa forme binaire' ? "
+answers = ["Process a binary information"]
+alternatives = ["Process information in its binary form","Process information with binary form"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Comprendre les principaux livrables, les jalons, ainsi que les rôles et les responsabilités de chaque personne impliquée dans une charte de projet' ? "
+answers = ["Understand the main deliverables, milestones, as well as the roles and responsibilities of each person involved in a project charter"]
+alternatives = ["Understand the main deliverable, milestone, as well as the role and responsibility of each person involved in a project charter","Understand the deliverables, milestones, the roles and responsibilities of each person involved in a project charter"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Utiliser les opérateurs booléens pour réduire, étendre ou affiner les résultats de recherche' ? "
+answers = ["Use Boolean operators to narrow, expand, or refine search results"]
+alternatives = ["Use Boolean to narrow, expand, or refine search results","Use Boolean operators to narrow search results"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Créer une procédure stockée dans une base de données ' ? "
+answers = ["Create a stored procedure in a database"]
+alternatives = ["Create store procedure in a database","Create a store procedure in database"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Utiliser les algorithmes les plus efficaces possibles pour résoudre des problèmes ' ? "
+answers = ["Use the most efficient algorithms possible to solve problems"]
+alternatives = ["Use the algorithms possible to solve problem","Use the efficientest algorithms possible to solve problems"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Développer des solutions logicielles fiables et fonctionnelles' ? "
+answers = ["Develop reliable and functional software solutions"]
+alternatives = ["Develop trusted and functional software solutions","Develop trustworthy and functional software solutions"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Se positionner comme expert technique' ? "
+answers = ["Position oneself as a technical expert"]
+alternatives = ["Position as a technical expert","Post himself as a technical expert"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Gérer et optimiser la base de données' ? "
+answers = ["Manage and optimize the database"]
+alternatives = ["Managing and optimizing the database","To manage and optimize database"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Réaliser une étude logicielle' ? "
+answers = ["Conduct a software study"]
+alternatives = ["Conducting a software study","Conducted a software study"]
+
+[[dev.questions]]
+question = "Comment dire en anglais 'Concevoir l’architecture des applications' ? "
+answers = ["Design application architecture"]
+alternatives = ["Design the application architecture","Design an application architecture"]
+
+[[dev.questions]]
+question = "Comment dire en anglais '' ? "
+answers = [""]
+alternatives = ["",""]
