@@ -212,7 +212,7 @@ answers = ["Motherboard"]
 alternatives = ["Motherbord","Motherbard"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Carton son'  "
+question = "Comment dire en anglais 'Carte son'  "
 answers = ["Sound card"]
 alternatives = ["Card sound","Noise card"]
 
