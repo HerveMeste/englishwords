@@ -1,6 +1,7 @@
 import random
 from string import ascii_lowercase
 import pathlib
+
 try:
     import tomllib
 except ModuleNotFoundError:
@@ -16,31 +17,34 @@ print("\nIMPORTANT ! "
       "\n Si vous voyez ceci '?' dans les réponses, alors ça vous donnera un indice en tapant '?' dans les choix.")
 
 
-def prepare_questions (path):
-    topic_info = tomllib.loads(path.read_text())
-    topics = {
-        topic["label"]: topic["questions"] for topic in topic_info.values()
-    }
-    topic_label = get_answers(
-        question="\nWhich topic do you want to be quizzed about ?",
-        alternatives=sorted(topics),
-    )[0]
+def prepare_questions():
+    with open(QUESTIONS_PATH, "r", encoding="utf-8") as f:
+        topic_info = tomllib.loads(f.read())
+        topics = {
+            topic["label"]: topic["questions"] for topic in topic_info.values()
+        }
+        topic_label = get_answers(
+            question="\nWhich topic do you want to be quizzed about ?",
+            alternatives=sorted(topics),
+        )[0]
 
-    #Compter les questions pour les developpeur ou pour les réseaux
-    data = path.read_text()
-    questions_network = data.count("network.questions")
-    questions_dev = data.count("dev.questions")
+        # Compter les questions pour les developpeur ou pour les réseaux
+        data = QUESTIONS_PATH.read_text()
+        questions_network = data.count("network.questions")
+        questions_dev = data.count("dev.questions")
 
-    #Choisir le nombre de question en fonction du choix fait
-    if topic_label == "Dev":
-        total_question = questions_dev
-    elif topic_label == "Network":
-        total_question = questions_network
+        # Choisir le nombre de question en fonction du choix fait
+        if topic_label == "Dev":
+            total_question = questions_dev
+        elif topic_label == "Network":
+            total_question = questions_network
 
-    questions = topics[topic_label]
-    numbers_questions = int(input(f"How many questions do you want ? You can choose a maximum of {total_question} questions: \n"))
-    num_questions = min(numbers_questions, len(questions))
-    return random.sample(questions, k=num_questions)
+        questions = topics[topic_label]
+        numbers_questions = int(
+            input(f"How many questions do you want ? You can choose a maximum of {total_question} questions: \n"))
+        num_questions = min(numbers_questions, len(questions))
+        return random.sample(questions, k=num_questions)
+
 
 def get_answers(question, alternatives, num_choices=1, hint=None):
     print(f"{question}?")
@@ -78,6 +82,7 @@ def get_answers(question, alternatives, num_choices=1, hint=None):
 
         return [labeled_alternatives[answer] for answer in answers]
 
+
 def ask_question(question):
     correct_answers = question["answers"]
     alternatives = question["answers"] + question["alternatives"]
@@ -97,10 +102,9 @@ def ask_question(question):
         print("\n- ".join([f"No, the answer{is_or_are}:"] + correct_answers))
         return 0
 
+
 def run_quiz():
-    questions = prepare_questions(
-        QUESTIONS_PATH
-    )
+    questions = prepare_questions()
 
     num_correct = 0
     for num, question in enumerate(questions, start=1):
@@ -108,17 +112,18 @@ def run_quiz():
         num_correct += ask_question(question)
 
     # Détermination des notes en fonction des réponses
-    note=(100*num_correct)/num
+    note = (100 * num_correct) / num
     if note >= 80:
         print("\nYou have obtained the grade A.")
-    elif note >= 60 and note < 80:
+    elif 60 <= note < 80:
         print("\nYou have obtained the grade B.")
-    elif note >= 40 and note < 60:
+    elif 40 <= note < 60:
         print("\nYou have obtained the grade C.")
-    elif note >= 0 and note < 40:
+    elif 0 <= note < 40:
         print("\nYou have obtained the grade D.")
 
     print(f"\nYou got {num_correct} correct out of {num} questions")
+
 
 if __name__ == "__main__":
     run_quiz()

@@ -1051,7 +1051,7 @@ alternatives = ["Loops execute","Executing loops"]
 [[dev.questions]]
 question = "Comment dire en anglais 'Effectuer une opération d'entrée ou de sortie' ? "
 answers = ["Perform an input or output operation"]
-alternatives = ["COmplete an input or output operation","Complete input or output operation"]
+alternatives = ["Complete an input or output operation","Complete input or output operation"]
 
 [[dev.questions]]
 question = "Comment dire en anglais 'Traiter une information représentée sous sa forme binaire' ? "
