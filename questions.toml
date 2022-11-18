@@ -4,521 +4,521 @@
 label = "Network"
 
 [[network.questions]]
-question = "Comment dire en anglais 'Parc Informatique' ? "
+question = "Comment dire en anglais 'Parc Informatique'  "
 answers = ["IT Stock"]
 alternatives = ["IT Infrastructure","IT Park"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Transfert de fichier' ? "
+question = "Comment dire en anglais 'Transfert de fichier'  "
 answers = ["File transfer"]
 alternatives = ["Transfer file","File transfered"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Bureau d'assistance' ? "
+question = "Comment dire en anglais 'Bureau d'assistance'  "
 answers = ["Help desk"]
 alternatives = ["Office assistance","Help me"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Réseau' ? "
+question = "Comment dire en anglais 'Réseau'  "
 answers = ["Network"]
 alternatives = ["Computer","Social"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Système d'information' ? "
+question = "Comment dire en anglais 'Système d'information'  "
 answers = ["Computer System"]
 alternatives = ["System Computer","Information System"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Exploitation des réseaux' ? "
+question = "Comment dire en anglais 'Exploitation des réseaux'  "
 answers = ["Network Operation"]
 alternatives = ["System Operation","Operation System"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Réseaux et télécoms' ? "
+question = "Comment dire en anglais 'Réseaux et télécoms'  "
 answers = ["Networks and Telecoms"]
 alternatives = ["Network and Telecom","Telecom and Networks"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Infrastructure Système' ? "
+question = "Comment dire en anglais 'Infrastructure Système'  "
 answers = ["System Infrastructure"]
 alternatives = ["Infrastructure System","Network System"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Application client-serveur' ? "
+question = "Comment dire en anglais 'Application client-serveur'  "
 answers = ["Client-server Application"]
 alternatives = ["Client-server communication","Application client-server"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Installer' et 'Désinstaller' ? "
+question = "Comment dire en anglais 'Installer' et 'Désinstaller'  "
 answers = ["Install","Uninstall"]
 alternatives = ["Download","Upload"]
 hint = "Il faut donner deux réponses."
 
 [[network.questions]]
-question = "Comment dire en anglais 'Redémarrer' ? "
+question = "Comment dire en anglais 'Redémarrer'  "
 answers = ["To reboot"]
 alternatives = ["To restart","Shutdown"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Surveillance' ? "
+question = "Comment dire en anglais 'Surveillance'  "
 answers = ["Monitoring","Supervision"]
 alternatives = ["Supervise","Watch"]
 hint = "Il faut donner deeux réponses."
 
 [[network.questions]]
-question = "Comment dire en anglais 'Panneau de configuration' ? "
+question = "Comment dire en anglais 'Panneau de configuration'  "
 answers = ["Control Panel"]
 alternatives = ["Control Pannel","Controle Panel"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Bureau d'assistance' ? "
+question = "Comment dire en anglais 'Bureau d'assistance'  "
 answers = ["Help desk"]
 alternatives = ["Office assistance","Help me"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Paramètres' ? "
+question = "Comment dire en anglais 'Paramètres'  "
 answers = ["Settings"]
 alternatives = ["Parameter","Setting"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Logiciel' ? "
+question = "Comment dire en anglais 'Logiciel'  "
 answers = ["Software"]
 alternatives = ["Hardware","Nowere"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Matériel Informatique' ? "
+question = "Comment dire en anglais 'Matériel Informatique'  "
 answers = ["Hardware"]
 alternatives = ["Software","Nowere"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Imprimante' ? "
+question = "Comment dire en anglais 'Imprimante'  "
 answers = ["Printer"]
 alternatives = ["Pinter","Peintre"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Utilisateur' ? "
+question = "Comment dire en anglais 'Utilisateur'  "
 answers = ["User"]
 alternatives = ["Person","Individual"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Serveur' ? "
+question = "Comment dire en anglais 'Serveur'  "
 answers = ["Server","Host"]
 alternatives = ["Serveur","barman"]
 hint = "Il faut donner deux réponses."
 
 [[network.questions]]
-question = "Comment dire en anglais 'Sauvegarde' ? "
+question = "Comment dire en anglais 'Sauvegarde'  "
 answers = ["Backup"]
 alternatives = ["data store","save"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'base de données' ? "
+question = "Comment dire en anglais 'base de données'  "
 answers = ["database"]
 alternatives = ["basedata","dataset"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Flus de données' ? "
+question = "Comment dire en anglais 'Flus de données'  "
 answers = ["Data Flow"]
 alternatives = ["Flow Data","Data Stream"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Stokage de données' ? "
+question = "Comment dire en anglais 'Stokage de données'  "
 answers = ["Data Storage"]
 alternatives = ["Data Safety","Data Flow"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Sécurité des données' ? "
+question = "Comment dire en anglais 'Sécurité des données'  "
 answers = ["Data Safety"]
 alternatives = ["Data Flow","Data Recording"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Saisie des données' ? "
+question = "Comment dire en anglais 'Saisie des données'  "
 answers = ["Data Recording"]
 alternatives = ["Data Flow","Data Entry"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Restoration des données' ? "
+question = "Comment dire en anglais 'Restoration des données'  "
 answers = ["Data Recovery"]
 alternatives = ["Data Storage","Data Center"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Nettoyage des données' ? "
+question = "Comment dire en anglais 'Nettoyage des données'  "
 answers = ["Data Cleansing"]
 alternatives = ["Data cleaning","Data Washing"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Exploration de données' ? "
+question = "Comment dire en anglais 'Exploration de données'  "
 answers = ["Data Mining"]
 alternatives = ["Data Eexploration","Data Scan"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Centre de données' ? "
+question = "Comment dire en anglais 'Centre de données'  "
 answers = ["Data Center"]
 alternatives = ["Data Mining","Data Flow"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Virtualisation des serveurs' ? "
+question = "Comment dire en anglais 'Virtualisation des serveurs'  "
 answers = ["Server Virtualization"]
 alternatives = ["Server Virtualisation","Server Virtulization"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Machine Virtuelle' ? "
+question = "Comment dire en anglais 'Machine Virtuelle'  "
 answers = ["Virtual Machine"]
 alternatives = ["Machine Virtual","Machina"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Apprentissage automatique' ? "
+question = "Comment dire en anglais 'Apprentissage automatique'  "
 answers = ["Machine Learning"]
 alternatives = ["Deep Larning","Automatic Learning"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Equipement téléphonique' ? "
+question = "Comment dire en anglais 'Equipement téléphonique'  "
 answers = ["Phone equipment"]
 alternatives = ["Phone equimpent","Phone equipement"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Gestion des accès' ? "
+question = "Comment dire en anglais 'Gestion des accès'  "
 answers = ["Access Management"]
 alternatives = ["Guest Access","Management Access"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Bande Passante' ? "
+question = "Comment dire en anglais 'Bande Passante'  "
 answers = ["Bandwidth"]
 alternatives = ["Bandwidh","Bandwith"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Systeme de messagerie collaborative' ? "
+question = "Comment dire en anglais 'Systeme de messagerie collaborative'  "
 answers = ["Collaborative message system"]
 alternatives = ["Collaborative system message","Message collaborative system"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Invite de commande' ? "
+question = "Comment dire en anglais 'Invite de commande'  "
 answers = ["Command prompt"]
 alternatives = ["Prompt command","Commande prompt"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Poste de travail' ? "
+question = "Comment dire en anglais 'Poste de travail'  "
 answers = ["Workstation"]
 alternatives = ["Workspace","Worker"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Carte mémoire' ? "
+question = "Comment dire en anglais 'Carte mémoire'  "
 answers = ["Memory Card"]
 alternatives = ["Card Memory","Storage Card"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Carte mère' ? "
+question = "Comment dire en anglais 'Carte mère'  "
 answers = ["Motherboard"]
 alternatives = ["Motherbord","Motherbard"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Carton son' ? "
+question = "Comment dire en anglais 'Carton son'  "
 answers = ["Sound card"]
 alternatives = ["Card sound","Noise card"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Processeur central' ? "
+question = "Comment dire en anglais 'Processeur central'  "
 answers = ["Central processor"]
 alternatives = ["Processor central","Central procesor"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Processeur graphique' ? "
+question = "Comment dire en anglais 'Processeur graphique'  "
 answers = ["Graphics processing unit"]
 alternatives = ["Graphics processing","Graphics processor"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Microprocesseur' ? "
+question = "Comment dire en anglais 'Microprocesseur'  "
 answers = ["Microprocessor","Microship"]
 alternatives = ["Microprocesor","Microchip"]
 hint = "Il faut donner deux réponses."
 
 [[network.questions]]
-question = "Comment dire en anglais 'Système d'exploitation' ? "
+question = "Comment dire en anglais 'Système d'exploitation'  "
 answers = ["Operating system"]
 alternatives = ["System operating","Operating organisme"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Routeur' ? "
+question = "Comment dire en anglais 'Routeur'  "
 answers = ["Router"]
 alternatives = ["Routeur","Route"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Gestionnaire de périphérique' ? "
+question = "Comment dire en anglais 'Gestionnaire de périphérique'  "
 answers = ["Device manager"]
 alternatives = ["Peripheral manager","Device administrator"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Mémoire vive' ? "
+question = "Comment dire en anglais 'Mémoire vive'  "
 answers = ["Random access memory"]
 alternatives = ["Random asset memory","Random assault memory"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Répertoire racine' ? "
+question = "Comment dire en anglais 'Répertoire racine'  "
 answers = ["Root directory"]
 alternatives = ["Main directory","Root repertoire"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Exécuter un programme' ? "
+question = "Comment dire en anglais 'Exécuter un programme'  "
 answers = ["To run a program"]
 alternatives = ["To build a program","To store a program"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Pile de protocoles' ? "
+question = "Comment dire en anglais 'Pile de protocoles'  "
 answers = ["Protocole stack"]
 alternatives = ["Stack protocole","Stack protocol"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Mettre en œuvre les solutions aux problématiques techniques' ? "
+question = "Comment dire en anglais 'Mettre en œuvre les solutions aux problématiques techniques'  "
 answers = ["Implement solutions to technical problems"]
 alternatives = ["Implement solutions to the technical problems","Implement solution to technical problem"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Choisir avec discernement des architectures performantes et sécurisées' ? "
+question = "Comment dire en anglais 'Choisir avec discernement des architectures performantes et sécurisées'  "
 answers = ["Choose high-performance and secure architectures"]
 alternatives = ["Choose discernment secure and high-performance architectures","Choose performing and secure architectures"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Mener à bien les différentes évolutions du SI' ? "
+question = "Comment dire en anglais 'Mener à bien les différentes évolutions du SI'  "
 answers = ["Carry out the various developments in IS"]
 alternatives = ["Carry out developments in IS","Carry out the various technical evolution in IS"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Respecter les contraintes de qualité, de coûts et de délais' ? "
+question = "Comment dire en anglais 'Respecter les contraintes de qualité, de coûts et de délais'  "
 answers = ["Meet quality, cost and time constraints"]
 alternatives = ["Respect constraints of quality, cost and time","Respect all the constraints of quality, cost and time"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Être l’expert des infrastructures techniques de son SI ' ? "
+question = "Comment dire en anglais 'Être l’expert des infrastructures techniques de son SI '  "
 answers = ["Be the expert on the technical infrastructure of your IS"]
 alternatives = ["Be the expert of the technical infrastructure of your IS","Be the expert on the technical infrastructure on your IS"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Piloter un projet d’infrastructure systèmes et réseaux' ? "
+question = "Comment dire en anglais 'Piloter un projet d’infrastructure systèmes et réseaux'  "
 answers = ["Lead a systems and networks infrastructure project"]
 alternatives = ["Manage a systems and networks infrastructure project","Pilot a systems and networks infrastructure project"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Recueillir, analyser et formaliser les besoins systèmes et réseaux de l’entreprise' ? "
+question = "Comment dire en anglais 'Recueillir, analyser et formaliser les besoins systèmes et réseaux de l’entreprise'  "
 answers = ["Collect, analyze and formalize the company's systems and networks needs"]
 alternatives = ["Collect, analyze and formalize the company systems and networks need","Collect and formalize the company's systems and networks needs"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Assurer le maintien en condition opérationnelle du réseau et de l’architecture système de l’entreprise' ? "
+question = "Comment dire en anglais 'Assurer le maintien en condition opérationnelle du réseau et de l’architecture système de l’entreprise'  "
 answers = ["Maintain the operational condition of the company's network and system architecture"]
 alternatives = ["Ensure maintenance of the company's network and system architecture","Provide the operational condition of the company's network and system archiecture"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Construire un cahier des charges' ? "
+question = "Comment dire en anglais 'Construire un cahier des charges'  "
 answers = ["Build specifications"]
 alternatives = ["Build production specification","requirement specification"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Modéliser l’architecture systèmes et réseaux' ? "
+question = "Comment dire en anglais 'Modéliser l’architecture systèmes et réseaux'  "
 answers = ["Modeling systems and networks architecture"]
 alternatives = ["Design systems and networks architecture","Modeling systems and network design"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Valider, concevoir et mettre en œuvre les infrastructures systèmes et réseaux' ? "
+question = "Comment dire en anglais 'Valider, concevoir et mettre en œuvre les infrastructures systèmes et réseaux'  "
 answers = ["Validate, design and implement systems and networks infrastructure"]
 alternatives = ["Validate, design and execute systems and networks infrastructure","Validate, plan and execute systems and networks infrastructure"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Communiquer et promouvoir un projet informatique' ? "
+question = "Comment dire en anglais 'Communiquer et promouvoir un projet informatique'  "
 answers = ["Communicate and promote a computer project"]
 alternatives = ["Communicate and promote a IT project","Communicate and promote a technology project"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Manager le service informatique et ses projets' ? "
+question = "Comment dire en anglais 'Manager le service informatique et ses projets'  "
 answers = ["Manage IT and its projects"]
 alternatives = ["Lead IT and its projects","Learn IT and its projects"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Maintenir et sécuriser les infrastructures informatiques' ? "
+question = "Comment dire en anglais 'Maintenir et sécuriser les infrastructures informatiques'  "
 answers = ["Maintain and secure IT infrastructure"]
 alternatives = ["Keep secure the IT infrastructure","Sustain and secure the IT infrastructure"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Analyser dans quelle mesure les logiciels, le matériel et le système informatique au sens plus large correspondent aux besoins de l’entreprise' ? "
+question = "Comment dire en anglais 'Analyser dans quelle mesure les logiciels, le matériel et le système informatique au sens plus large correspondent aux besoins de l’entreprise'  "
 answers = ["Analyse how well software, hardware and the wider IT system fit the business needs"]
 alternatives = ["Analyse how software, hardware and the broader IT system fit the business need","Analyse how well software, hardware and the broader IT system fit the future needs"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Rédiger les besoins pour les nouveaux systèmes informatiques' ? "
+question = "Comment dire en anglais 'Rédiger les besoins pour les nouveaux systèmes informatiques'  "
 answers = ["Write requirements for new IT systems"]
 alternatives = ["Draw up requirement for new IT systems","Write requirement for new IT system"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Aider à la mise en œuvre de systèmes informatiques' ? "
+question = "Comment dire en anglais 'Aider à la mise en œuvre de systèmes informatiques'  "
 answers = ["Help implement IT systems"]
 alternatives = ["Help execute IT systems","Help implementation IT systems"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Surveiller l’efficacité des systèmes informatiques' ? "
+question = "Comment dire en anglais 'Surveiller l’efficacité des systèmes informatiques'  "
 answers = ["Monitor the effectiveness of IT systems "]
 alternatives = ["Watch the effectiveness of the IT systems","Monitor the efficiency of the IT systems"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Animer une équipe' ? "
+question = "Comment dire en anglais 'Animer une équipe'  "
 answers = ["Lead a team"]
 alternatives = ["Manage a team","Have a team"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Accroître la performance et la réactivité de l’entreprise' ? "
+question = "Comment dire en anglais 'Accroître la performance et la réactivité de l’entreprise'  "
 answers = ["Increase the company's performance and responsiveness"]
 alternatives = ["Expend the compagny performance and responsiveness","Expend the compagnie performance and responcive"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Ecouter, analyser et rédiger les besoins' ? "
+question = "Comment dire en anglais 'Ecouter, analyser et rédiger les besoins'  "
 answers = ["Listen, analyze and write needs"]
 alternatives = ["Listen, analyse and wrie necessity","Listen, analize and write requirements"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Être garant de la pérennité et de l’évolution des solutions' ? "
+question = "Comment dire en anglais 'Être garant de la pérennité et de l’évolution des solutions'  "
 answers = ["Guarantee the sustainability and evolution of solutions"]
 alternatives = ["Responsible of the sustainability and evolution of solutions","Guarantee the continuity end evolution of solution"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Satisfaire les attentes du client' ? "
+question = "Comment dire en anglais 'Satisfaire les attentes du client'  "
 answers = ["Meet client expectations "]
 alternatives = ["Answer client expectations","Fit client expectations"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Analyser et identifier tous les problèmes potentiels' ? "
+question = "Comment dire en anglais 'Analyser et identifier tous les problèmes potentiels'  "
 answers = ["Analyze and identify any potential problems"]
 alternatives = ["Analyse and identify potential problem","Analyze and identify any problems"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Avoir de solides compétences pour le travail en équipe ' ? "
+question = "Comment dire en anglais 'Avoir de solides compétences pour le travail en équipe '  "
 answers = ["Have strong team-working skills"]
 alternatives = ["Have strong team-working abilities","Have strong team-working faculties"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Diriger des projets collaboratifs' ? "
+question = "Comment dire en anglais 'Diriger des projets collaboratifs'  "
 answers = ["Lead collaborative projects"]
 alternatives = ["Run collaborative projects","Direct collaborative projects"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Définir les étapes clés de cycle de vie du projet ' ? "
+question = "Comment dire en anglais 'Définir les étapes clés de cycle de vie du projet '  "
 answers = ["Define key lifecycle milestones for the project"]
 alternatives = ["Define key lifecycle step for the project","Define lefecycle milestones for the project"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Être en mesure de gérer une liste de problèmes ou d’améliorations' ? "
+question = "Comment dire en anglais 'Être en mesure de gérer une liste de problèmes ou d’améliorations'  "
 answers = ["Be able to manage a list of issues or improvements"]
 alternatives = ["Be abel to manage a list of issue or improvement","Be able manage list of issues improvements"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Connecter différents appareils ensemble pour former des réseaux rapides et efficaces' ? "
+question = "Comment dire en anglais 'Connecter différents appareils ensemble pour former des réseaux rapides et efficaces'  "
 answers = ["Connect different devices together to form fast and efficient networks"]
 alternatives = ["Connect some devices together to form fast ans strong networks","Link different devices to form fast networks"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Installer et configurer des réseaux et des systèmes informatiques' ? "
+question = "Comment dire en anglais 'Installer et configurer des réseaux et des systèmes informatiques'  "
 answers = ["Install and configure computer networks and systems"]
 alternatives = ["Instal and confugure computer network and system","Install computer networks and system"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Consulter les clients' ? "
+question = "Comment dire en anglais 'Consulter les clients'  "
 answers = ["Consult with clients"]
 alternatives = ["Consult clients","Consult in clients"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Spécifier les besoins du système' ? "
+question = "Comment dire en anglais 'Spécifier les besoins du système'  "
 answers = ["Specify system requirements"]
 alternatives = ["Specify requirements","Specife system needs"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Concevoir des solutions' ? "
+question = "Comment dire en anglais 'Concevoir des solutions'  "
 answers = ["Design solutions"]
 alternatives = ["Plan solutions","Design needs"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Budgétiser l'équipement' ? "
+question = "Comment dire en anglais 'Budgétiser l'équipement'  "
 answers = ["Budget for equipment"]
 alternatives = ["Equipment budget","Budget equipment"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Assembler de nouveaux systèmes' ? "
+question = "Comment dire en anglais 'Assembler de nouveaux systèmes'  "
 answers = ["Assemble new systems"]
 alternatives = ["Assembled new systems","Disable new systems"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Maintenir les logiciels et le matériel existants' ? "
+question = "Comment dire en anglais 'Maintenir les logiciels et le matériel existants'  "
 answers = ["Maintain existing softare and hardware"]
 alternatives = ["Maintain existe software and hardware","Maintain software and hardware"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Mettre à niveau les logiciels et le matériel obsolètes' ? "
+question = "Comment dire en anglais 'Mettre à niveau les logiciels et le matériel obsolètes'  "
 answers = ["Upgrade obsolete software and hardware "]
 alternatives = ["Upgrade obselete software and hardware ","Downgrade obselete software and hardware "]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Surveiller les réseaux et les systèmes informatiques' ? "
+question = "Comment dire en anglais 'Surveiller les réseaux et les systèmes informatiques'  "
 answers = ["Monitor computer networks and systems"]
 alternatives = ["Control computer network and system","Monitor computer networks systems"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Identifier comment améliorer les performances' ? "
+question = "Comment dire en anglais 'Identifier comment améliorer les performances'  "
 answers = ["Identify how performance can be improved"]
 alternatives = ["Identify how many performance can be improved","Identify how can the performance can be improved"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Travailler avec le personnel de support informatique' ? "
+question = "Comment dire en anglais 'Travailler avec le personnel de support informatique'  "
 answers = ["Work with IT support staff"]
 alternatives = ["Work IT support staff","Work with support staff"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Fournir l’administration et le support du réseau' ? "
+question = "Comment dire en anglais 'Fournir l’administration et le support du réseau'  "
 answers = ["Provide network administration and support"]
 alternatives = ["Supply network administration","Supply networks administration and supports"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Rédiger et mettre à jour les procédures et les consignes d’exploitation et de documentation' ? "
+question = "Comment dire en anglais 'Rédiger et mettre à jour les procédures et les consignes d’exploitation et de documentation'  "
 answers = ["Write and update operating and documentation procedures and instructions"]
 alternatives = ["Write and update operating system and procedures","Write and update operating procedures and instructions"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Effectuer un suivi des équipements' ? "
+question = "Comment dire en anglais 'Effectuer un suivi des équipements'  "
 answers = ["Track equipment"]
 alternatives = ["Do a follow eqipment","Follow up equipment"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Sensibiliser les utilisateurs pour optimiser leur utilisation ' ? "
+question = "Comment dire en anglais 'Sensibiliser les utilisateurs pour optimiser leur utilisation '  "
 answers = ["Raise awareness among users to optimize their use"]
 alternatives = ["Sensitizing users to optimize their use","Sensitizing users to upgrade their use of network"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Conseiller la DSI sur l’utilisation des ressources du système' ? "
+question = "Comment dire en anglais 'Conseiller la DSI sur l’utilisation des ressources du système'  "
 answers = ["Advise the CIO on the use of system resources"]
 alternatives = ["Advise the CEO on the use of system ressources","Advice the CTO on the use of system ressources"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Garantir l’optimisation des ressources systèmes' ? "
+question = "Comment dire en anglais 'Garantir l’optimisation des ressources systèmes'  "
 answers = ["Ensure optimization for system resources"]
 alternatives = ["Guarantee optimisation for system ressource","Guarantee safety for system ressources"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Assurer une veille technologique' ? "
+question = "Comment dire en anglais 'Assurer une veille technologique'  "
 answers = ["Ensure a technological watch"]
 alternatives = ["Do atechnological watch","Done a technological wtach"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Accompagner la stratégie de l’entreprise' ? "
+question = "Comment dire en anglais 'Accompagner la stratégie de l’entreprise'  "
 answers = ["Support the company's strategy"]
 alternatives = ["Make the compagny's strategy","Do the compagny's strategy"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Se tenir informé des tendances en évolution rapide' ? "
+question = "Comment dire en anglais 'Se tenir informé des tendances en évolution rapide'  "
 answers = ["Keep up to date with fast-changing trends"]
 alternatives = ["Get inform of tendances and fast evolving","Get information of fast evolving"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Être en mesure de s’adapter aux différentes situations' ? "
+question = "Comment dire en anglais 'Être en mesure de s’adapter aux différentes situations'  "
 answers = ["Be able to adapt oneself to different situations"]
 alternatives = ["Be ablet to adapt to different situations","Be able to adapt imself to different situations"]
 
 [[network.questions]]
-question = "Comment dire en anglais 'Rechercher, diagnostiquer les bugs' ? "
+question = "Comment dire en anglais 'Rechercher, diagnostiquer les bugs'  "
 answers = ["Troubleshooting"]
 alternatives = ["Research, diagnose bugs","Research and disgnostic bugs"]
 
@@ -779,476 +779,476 @@ alternatives = ["Chemin critique / Critical path method (CPM)","Cas d'utilisatio
 label = "Dev"
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Logiciel' ? "
+question = "Comment dire en anglais 'Logiciel'  "
 answers = ["Software"]
 alternatives = ["Hardware","Nowere"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Cahier des charges' ? "
+question = "Comment dire en anglais 'Cahier des charges'  "
 answers = ["Specifications"]
 alternatives = ["Book specification","Requirements specification"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Navigateur' ? "
+question = "Comment dire en anglais 'Navigateur'  "
 answers = ["Browser"]
 alternatives = ["Navigate","Bowser"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Moteur de recherche' ? "
+question = "Comment dire en anglais 'Moteur de recherche'  "
 answers = ["Search Engine"]
 alternatives = ["Search Motor","Research engine"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Programmation' ? "
+question = "Comment dire en anglais 'Programmation'  "
 answers = ["Programming"]
 alternatives = ["Planning","Stealing"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Nom de domaine' ? "
+question = "Comment dire en anglais 'Nom de domaine'  "
 answers = ["Domain name"]
 alternatives = ["Name domain","Domaine name"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Compte' ? "
+question = "Comment dire en anglais 'Compte'  "
 answers = ["Account"]
 alternatives = ["Accont","Accout"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Créer un compte' ? "
+question = "Comment dire en anglais 'Créer un compte'  "
 answers = ["To sign up"]
 alternatives = ["Create account","To create account"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Utilisateur' ? "
+question = "Comment dire en anglais 'Utilisateur'  "
 answers = ["User"]
 alternatives = ["Account","Other"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Définir un mot de passe' ? "
+question = "Comment dire en anglais 'Définir un mot de passe'  "
 answers = ["To set a password"]
 alternatives = ["Create a password","To create a password"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Identifiant' ? "
+question = "Comment dire en anglais 'Identifiant'  "
 answers = ["Username"]
 alternatives = ["User","Account"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Bibliothèque' ? "
+question = "Comment dire en anglais 'Bibliothèque'  "
 answers = ["Library"]
 alternatives = ["Lybrary","Lybrari"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Cadre de travail' ? "
+question = "Comment dire en anglais 'Cadre de travail'  "
 answers = ["Framework"]
 alternatives = ["Work environment","Framework environment"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Environnement de développement' ? "
+question = "Comment dire en anglais 'Environnement de développement'  "
 answers = ["Integrated development environment"]
 alternatives = ["Interest development environmen","Invest development environment"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Maintenance' ? "
+question = "Comment dire en anglais 'Maintenance'  "
 answers = ["Maintenance"]
 alternatives = ["upkeep","Backup"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Sauvegarde' ? "
+question = "Comment dire en anglais 'Sauvegarde'  "
 answers = ["Backup"]
 alternatives = ["Maintenance","Save"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Base de données' ? "
+question = "Comment dire en anglais 'Base de données'  "
 answers = ["Database"]
 alternatives = ["Basedata","Backup"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Flux de données' ? "
+question = "Comment dire en anglais 'Flux de données'  "
 answers = ["Data flow"]
 alternatives = ["Database","Flow data"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Stockage de données' ? "
+question = "Comment dire en anglais 'Stockage de données'  "
 answers = ["Data storage"]
 alternatives = ["Storage data","Backup"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Pare-feu' ? "
+question = "Comment dire en anglais 'Pare-feu'  "
 answers = ["Firewall"]
 alternatives = ["Proxy","Server"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Logiciel espion' ? "
+question = "Comment dire en anglais 'Logiciel espion'  "
 answers = ["Spyware"]
 alternatives = ["Malware","Attack"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Bande passante' ? "
+question = "Comment dire en anglais 'Bande passante'  "
 answers = ["Bandwidth"]
 alternatives = ["Spyware","Firewall"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Interface de programmation' ? "
+question = "Comment dire en anglais 'Interface de programmation'  "
 answers = ["Application programming interface"]
 alternatives = ["Integrated development environment","IOS"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Balise' ? "
+question = "Comment dire en anglais 'Balise'  "
 answers = ["Markup"]
 alternatives = ["Tag","Marker"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Langage binaire' ? "
+question = "Comment dire en anglais 'Langage binaire'  "
 answers = ["Binary language"]
 alternatives = ["Binarie language","Bynarie language"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Système de gestion de contenu' ? "
+question = "Comment dire en anglais 'Système de gestion de contenu'  "
 answers = ["Content management system"]
 alternatives = ["Integrated development environment","Application programming interface"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Serveur' ? "
+question = "Comment dire en anglais 'Serveur'  "
 answers = ["Server"]
 alternatives = ["Proxy","Firewall"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Service d'hébergement' ? "
+question = "Comment dire en anglais 'Service d'hébergement'  "
 answers = ["Hosting service"]
 alternatives = ["Host server","Service hosting"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Plan de site' ? "
+question = "Comment dire en anglais 'Plan de site'  "
 answers = ["Sitemap"]
 alternatives = ["Site plan","Plan"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Site statique' ? "
+question = "Comment dire en anglais 'Site statique'  "
 answers = ["Static site"]
 alternatives = ["Site static","Staid site"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Site dynamique' ? "
+question = "Comment dire en anglais 'Site dynamique'  "
 answers = ["Dynamic site"]
 alternatives = ["Static site","Dinamic site"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Site animé' ? "
+question = "Comment dire en anglais 'Site animé'  "
 answers = ["Animated site"]
 alternatives = ["Anime site","Animate site"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Refonte' ? "
+question = "Comment dire en anglais 'Refonte'  "
 answers = ["Redesign"]
 alternatives = ["Recast","Design"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Charte graphique' ? "
+question = "Comment dire en anglais 'Charte graphique'  "
 answers = ["Graphic charter"]
 alternatives = ["Graphic charte","Graphical charter"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Bannière' ? "
+question = "Comment dire en anglais 'Bannière'  "
 answers = ["Banner"]
 alternatives = ["Baner","Bannered"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Référencement' ? "
+question = "Comment dire en anglais 'Référencement'  "
 answers = ["Referencing"]
 alternatives = ["Reference","Referenced"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Optimisation pour les moteurs de recherche' ? "
+question = "Comment dire en anglais 'Optimisation pour les moteurs de recherche'  "
 answers = ["Search eeengine optimization"]
 alternatives = ["Search engine advertising","Search Engine"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'référencement payent' ? "
+question = "Comment dire en anglais 'référencement payent'  "
 answers = ["Search engine advertising"]
 alternatives = ["Search engine optimization","Search Engine"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Référencement abusif' ? "
+question = "Comment dire en anglais 'Référencement abusif'  "
 answers = ["Spamdexing"]
 alternatives = ["Spam","Abusive referencing"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Réseau social' ? "
+question = "Comment dire en anglais 'Réseau social'  "
 answers = ["Social Network"]
 alternatives = ["Network Social","Social networking"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Prottocole de transfert de fichier' ? "
+question = "Comment dire en anglais 'Prottocole de transfert de fichier'  "
 answers = ["File transfer protocol"]
 alternatives = ["Transfer file protocol","Protocol file transfered"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Paratge de fichier' ? "
+question = "Comment dire en anglais 'Paratge de fichier'  "
 answers = ["File transfer"]
 alternatives = ["Transfered file","Filed trasnfer"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Télécharger' ? "
+question = "Comment dire en anglais 'Télécharger'  "
 answers = ["To download"]
 alternatives = ["To upload","Downloaded"]
 
 [[dev.questions]]
-question = "Comment dire en anglais '' ? "
+question = "Comment dire en anglais ''  "
 answers = [""]
 alternatives = ["",""]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Visite virtuelle' ? "
+question = "Comment dire en anglais 'Visite virtuelle'  "
 answers = ["Virtual visit"]
 alternatives = ["Visit virtual","Virtualed visit"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Object intéractif' ? "
+question = "Comment dire en anglais 'Object intéractif'  "
 answers = ["Interactive object"]
 alternatives = ["Hands-on object","Object hands-on"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Interface utilisateur graphique' ? "
+question = "Comment dire en anglais 'Interface utilisateur graphique'  "
 answers = ["Graphic user interface"]
 alternatives = ["Graphic user intelligence","Graphical users interfaces"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Prototype d'interface utilisateur' ? "
+question = "Comment dire en anglais 'Prototype d'interface utilisateur'  "
 answers = ["Mock-up"]
 alternatives = ["Graphic user interface prototype","Prototype graphic user interface"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Expérience utilisateur' ? "
+question = "Comment dire en anglais 'Expérience utilisateur'  "
 answers = ["User experience"]
 alternatives = ["Experience user","user experiment"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Maquette fonctionnelle d'un site' ? "
+question = "Comment dire en anglais 'Maquette fonctionnelle d'un site'  "
 answers = ["Wireframe"]
 alternatives = ["Fonctionnal site model","Fonctionnal model site"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Déclarer une variable en langage java' ? "
+question = "Comment dire en anglais 'Déclarer une variable en langage java'  "
 answers = ["Declare a variable in java language"]
 alternatives = ["Declare variable java language","Declared variable in java language"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Utiliser des tableaux pour stocker plusieurs valeurs dans une seule variable' ? "
+question = "Comment dire en anglais 'Utiliser des tableaux pour stocker plusieurs valeurs dans une seule variable'  "
 answers = ["Use arrays to store multiple values in a single variable"]
 alternatives = ["Use arrays to store values in variable","Use multiple values in a single variable"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Créer une chaîne en java' ? "
+question = "Comment dire en anglais 'Créer une chaîne en java'  "
 answers = ["Create a string in java "]
 alternatives = ["Create string","Creating string in java "]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Exécuter des boucles' ? "
+question = "Comment dire en anglais 'Exécuter des boucles'  "
 answers = ["Execute loops"]
 alternatives = ["Loops execute","Executing loops"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Effectuer une opération d'entrée ou de sortie' ? "
+question = "Comment dire en anglais 'Effectuer une opération d'entrée ou de sortie'  "
 answers = ["Perform an input or output operation"]
 alternatives = ["Complete an input or output operation","Complete input or output operation"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Traiter une information représentée sous sa forme binaire' ? "
+question = "Comment dire en anglais 'Traiter une information représentée sous sa forme binaire'  "
 answers = ["Process a binary information"]
 alternatives = ["Process information in its binary form","Process information with binary form"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Comprendre les principaux livrables, les jalons, ainsi que les rôles et les responsabilités de chaque personne impliquée dans une charte de projet' ? "
+question = "Comment dire en anglais 'Comprendre les principaux livrables, les jalons, ainsi que les rôles et les responsabilités de chaque personne impliquée dans une charte de projet'  "
 answers = ["Understand the main deliverables, milestones, as well as the roles and responsibilities of each person involved in a project charter"]
 alternatives = ["Understand the main deliverable, milestone, as well as the role and responsibility of each person involved in a project charter","Understand the deliverables, milestones, the roles and responsibilities of each person involved in a project charter"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Utiliser les opérateurs booléens pour réduire, étendre ou affiner les résultats de recherche' ? "
+question = "Comment dire en anglais 'Utiliser les opérateurs booléens pour réduire, étendre ou affiner les résultats de recherche'  "
 answers = ["Use Boolean operators to narrow, expand, or refine search results"]
 alternatives = ["Use Boolean to narrow, expand, or refine search results","Use Boolean operators to narrow search results"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Créer une procédure stockée dans une base de données ' ? "
+question = "Comment dire en anglais 'Créer une procédure stockée dans une base de données '  "
 answers = ["Create a stored procedure in a database"]
 alternatives = ["Create store procedure in a database","Create a store procedure in database"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Utiliser les algorithmes les plus efficaces possibles pour résoudre des problèmes ' ? "
+question = "Comment dire en anglais 'Utiliser les algorithmes les plus efficaces possibles pour résoudre des problèmes '  "
 answers = ["Use the most efficient algorithms possible to solve problems"]
 alternatives = ["Use the algorithms possible to solve problem","Use the efficientest algorithms possible to solve problems"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Développer des solutions logicielles fiables et fonctionnelles' ? "
+question = "Comment dire en anglais 'Développer des solutions logicielles fiables et fonctionnelles'  "
 answers = ["Develop reliable and functional software solutions"]
 alternatives = ["Develop trusted and functional software solutions","Develop trustworthy and functional software solutions"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Se positionner comme expert technique' ? "
+question = "Comment dire en anglais 'Se positionner comme expert technique'  "
 answers = ["Position oneself as a technical expert"]
 alternatives = ["Position as a technical expert","Post himself as a technical expert"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Gérer et optimiser la base de données' ? "
+question = "Comment dire en anglais 'Gérer et optimiser la base de données'  "
 answers = ["Manage and optimize the database"]
 alternatives = ["Managing and optimizing the database","To manage and optimize database"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Réaliser une étude logicielle' ? "
+question = "Comment dire en anglais 'Réaliser une étude logicielle'  "
 answers = ["Conduct a software study"]
 alternatives = ["Conducting a software study","Conducted a software study"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Concevoir l’architecture des applications' ? "
+question = "Comment dire en anglais 'Concevoir l’architecture des applications'  "
 answers = ["Design application architecture"]
 alternatives = ["Design the application architecture","Design an application architecture"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Assurer la gestion des données' ? "
+question = "Comment dire en anglais 'Assurer la gestion des données'  "
 answers = ["Ensure data management"]
 alternatives = ["Ansure the management of data","to ensure data management"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Sécuriser les applications' ? "
+question = "Comment dire en anglais 'Sécuriser les applications'  "
 answers = ["Secure applications"]
 alternatives = ["Secure application","Secure the applications"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Implémenter des solutions logicielles' ? "
+question = "Comment dire en anglais 'Implémenter des solutions logicielles'  "
 answers = ["Implement software solutions"]
 alternatives = ["Implemented software solutions","Implementing software solutions"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Créer des programmes' ? "
+question = "Comment dire en anglais 'Créer des programmes'  "
 answers = ["Build programs"]
 alternatives = ["Build program","Build the programs"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Écrire et tester le code' ? "
+question = "Comment dire en anglais 'Écrire et tester le code'  "
 answers = ["Write and test code"]
 alternatives = ["Writing and testing code","Writed and tested code"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Collaborer avec des développeurs' ? "
+question = "Comment dire en anglais 'Collaborer avec des développeurs'  "
 answers = ["Collaborate with developers"]
 alternatives = ["Work with developpers","Cooperate with developers"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Utiliser des outils de développement' ? "
+question = "Comment dire en anglais 'Utiliser des outils de développement'  "
 answers = ["Use development tools"]
 alternatives = ["Using tools development","Use tools development tools"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Créer des applications ergonomiques' ? "
+question = "Comment dire en anglais 'Créer des applications ergonomiques'  "
 answers = ["Create ergonomic applications"]
 alternatives = ["Created ergonomic applications","Create ergonomically applications"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Ecouter, analyser et rédiger les besoins' ? "
+question = "Comment dire en anglais 'Ecouter, analyser et rédiger les besoins'  "
 answers = ["Listen, analyze and write needs"]
 alternatives = ["Listen, analyze and write need","Listen, analize and write needs"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Être garant de la pérennité et de l’évolution des solutions' ? "
+question = "Comment dire en anglais 'Être garant de la pérennité et de l’évolution des solutions'  "
 answers = ["To guarantee the sustainability and evolution of solutions"]
 alternatives = ["To guarantee the durability and evolution of solutions","To guarantee the permanence and evolution of solutions"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Respecter les délais, les coûts et la qualité ' ? "
+question = "Comment dire en anglais 'Respecter les délais, les coûts et la qualité '  "
 answers = ["Meet deadlines, costs and quality"]
 alternatives = ["Respect the deadlines, cost and quality","Respect deadlines, costs and quality"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Satisfaire les attentes du client' ? "
+question = "Comment dire en anglais 'Satisfaire les attentes du client'  "
 answers = ["Meet client expectations"]
 alternatives = ["Meet client expectation","Satisfy client expectations"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Piloter un projet d’ingénierie logicielle' ? "
+question = "Comment dire en anglais 'Piloter un projet d’ingénierie logicielle'  "
 answers = ["Lead a software engineering project"]
 alternatives = ["Lead a project of software engineering","Lead a project application engineering"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Construire un cahier des charges' ? "
+question = "Comment dire en anglais 'Construire un cahier des charges'  "
 answers = ["Build specifications"]
 alternatives = ["Build requirements","Build book of charges"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Gérer les données de l’entreprise' ? "
+question = "Comment dire en anglais 'Gérer les données de l’entreprise'  "
 answers = ["Manage company data"]
 alternatives = ["Manage data entreprise","Manage all the data of the compagny"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Développer des applications mobiles' ? "
+question = "Comment dire en anglais 'Développer des applications mobiles'  "
 answers = ["Develop mobile apps"]
 alternatives = ["Developing mobile apps","Developed mobile apps"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Accompagner la stratégie de l’entreprise' ? "
+question = "Comment dire en anglais 'Accompagner la stratégie de l’entreprise'  "
 answers = ["Support the company’s strategy"]
 alternatives = ["Accompagny the company'y strategy","Support the company strategy"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Suivre les principes et bonnes pratiques de développement' ? "
+question = "Comment dire en anglais 'Suivre les principes et bonnes pratiques de développement'  "
 answers = ["Follow development principles and best practices"]
 alternatives = ["Go to development pratices and principles","Follow development best practices and principles"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Analyser et identifier tous les problèmes potentiels' ? "
+question = "Comment dire en anglais 'Analyser et identifier tous les problèmes potentiels'  "
 answers = ["Analyze and identify any potential problems"]
 alternatives = ["Analyse and identify all the potential problems","Analyse and identify all of potential problems"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Améliorer et maintenir le logiciel à long terme' ? "
+question = "Comment dire en anglais 'Améliorer et maintenir le logiciel à long terme'  "
 answers = ["Improve and maintain the software in the long term"]
 alternatives = ["Upgrade and maintain software in long term","Upgrade and maintain the software in the long term"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Traduire le besoin du client en demandes fonctionnelles' ? "
+question = "Comment dire en anglais 'Traduire le besoin du client en demandes fonctionnelles'  "
 answers = ["Translate the client's need into functional demands"]
 alternatives = ["Translate the client need into demands","Translate the client's need into demands"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Analyser et décrire les tâches à réaliser par l’ordinateur' ? "
+question = "Comment dire en anglais 'Analyser et décrire les tâches à réaliser par l’ordinateur'  "
 answers = ["Analyze and describe the tasks to be performed by the computer"]
 alternatives = ["Analyse and describe the tasks to be run by the computer","Analyse and describe the tasks to be realize by the computer"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Déterminer et schématiser les fonctionnalités du logiciel' ? "
+question = "Comment dire en anglais 'Déterminer et schématiser les fonctionnalités du logiciel'  "
 answers = ["Determine and schematize the software functionalities"]
 alternatives = ["Determine and schematize the software needs","Determine and schematize the software features"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Déceler les défauts de programmation' ? "
+question = "Comment dire en anglais 'Déceler les défauts de programmation'  "
 answers = ["Identify programming defects"]
 alternatives = ["Identify default programmation","Identity defects programming"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Effectuer des traitements par lot' ? "
+question = "Comment dire en anglais 'Effectuer des traitements par lot'  "
 answers = ["Perform batch processes"]
 alternatives = ["Carry out treatments per batch","Carry out batch processes"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Contrôler les évolutions et les différentes versions du logiciel' ? "
+question = "Comment dire en anglais 'Contrôler les évolutions et les différentes versions du logiciel'  "
 answers = ["Control developments and different versions of the software"]
 alternatives = ["Control the evolutions and the different versions of the software","Conttrol the evolving and the different versions of the software"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Maintenir en condition opérationnelle le logiciel' ? "
+question = "Comment dire en anglais 'Maintenir en condition opérationnelle le logiciel'  "
 answers = ["Keep the software in operational condition"]
 alternatives = ["Maintain in operational condition thee software","Hold the software in opertional condition"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Mettre en production à l’issue des phases de qualification et d’intégration' ? "
+question = "Comment dire en anglais 'Mettre en production à l’issue des phases de qualification et d’intégration'  "
 answers = ["Put into production at the end of the qualification and integration phases"]
 alternatives = ["Put  production at the end of the integration phase","Put into production the end of qualification and integration phases"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Rédiger le code source qui constitue le corps du logiciel' ? "
+question = "Comment dire en anglais 'Rédiger le code source qui constitue le corps du logiciel'  "
 answers = ["Write the source code that forms the body of the software"]
 alternatives = ["Write the source code that constitues the body of the software","Write the code that constitues the body of the software"]
 
 [[dev.questions]]
-question = "Comment dire en anglais '' ? "
+question = "Comment dire en anglais ''  "
 answers = [""]
 alternatives = ["",""]
