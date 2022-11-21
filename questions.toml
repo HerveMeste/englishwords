@@ -994,11 +994,6 @@ answers = ["To download"]
 alternatives = ["To upload","Downloaded"]
 
 [[dev.questions]]
-question = "Comment dire en anglais ''  "
-answers = [""]
-alternatives = ["",""]
-
-[[dev.questions]]
 question = "Comment dire en anglais 'Visite virtuelle'  "
 answers = ["Virtual visit"]
 alternatives = ["Visit virtual","Virtualed visit"]

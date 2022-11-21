@@ -15,6 +15,9 @@ Pour se faire, vous pouvez suivre le tuto suivant:
 * [Ouvrir le tuto d'installation windows](https://docs.python.org/fr/3/using/windows.html)
 * [Ouvrir le tuto d'installation mac](https://installvirtual.com/how-to-install-python-3-10-on-mac-using-brew/)
 
+Si vous avez déjà python 3.10 d'installé sur votre machine, il faut faire la commande suivant pour installer le package tomli nécessaire au bon fonctionnement :
+<pre><code>C:\> pip install tomli</code></pre>
+
 ## Importation du code
 Il y a plusieurs façon d'importer le code dans git. Il faut tout d'abord appuyer sur "code" en vert puis choisir les options suivantes: 
 * Open with GitHub desktop
