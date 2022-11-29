@@ -6,7 +6,15 @@ Programme simple qui simule un questionnaire à choix multiple.
 
 Il y a des questions pour les spécialités réseaux et pour les spécialités développement. Toutes les questions ont été prises à partir des documents word.
 
-Si vous avez des remarques ou des questions quant au quizz, n'hésitez pas à me contacter.
+## ATTENTION !
+
+Ce jeu ne remplace en rien les révisions normales. 
+
+Si le QCM, le jour de l'examen, n'est pas comme celui présent ici, ce n'est pas de la faute du jeu, mais de la vôtre pour vous êtes reposé sur vos acquis.
+
+Ce jeu est là pour vous **aider** dans vos révisions, rien de plus. 
+
+>Si vous avez des remarques ou des questions quant au quizz, n'hésitez pas à me contacter.
 
 # Prérequis
 ## Installtion de python 3.10

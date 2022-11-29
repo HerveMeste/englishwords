@@ -9,7 +9,10 @@ except ModuleNotFoundError:
 
 # Présentation du jeu
 print("Welcome to the game called 'Quizz Game'")
-print("\nYou can play to practice your english and your technical vocabulary.")
+print("\nYou can play to practice your english and your technical vocabulary.\n")
+warning = "!! ATTENTION !!"
+print("Ce jeu ne remplace en rien les révisions normales. \nSi le QCM, le jour de l'examen, n'est pas comme celui présent ici, ce n'est pas de la faute du jeu, mais de la vôtre pour vous êtes reposé sur vos acquis.")
+print(warning.center(60))
 print("\n\nGood Game ! ;)")
 QUESTIONS_PATH = pathlib.Path(__file__).parent / "questions.toml"
 
