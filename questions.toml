@@ -515,7 +515,7 @@ alternatives = ["Get inform of tendances and fast evolving","Get information of 
 [[network.questions]]
 question = "Comment dire en anglais 'Être en mesure de s’adapter aux différentes situations'  "
 answers = ["Be able to adapt oneself to different situations"]
-alternatives = ["Be ablet to adapt to different situations","Be able to adapt imself to different situations"]
+alternatives = ["Be able to adapt to different situations","Be able to adapt imself to different situations"]
 
 [[network.questions]]
 question = "Comment dire en anglais 'Rechercher, diagnostiquer les bugs'  "
@@ -984,9 +984,9 @@ answers = ["File transfer protocol"]
 alternatives = ["Transfer file protocol","Protocol file transfered"]
 
 [[dev.questions]]
-question = "Comment dire en anglais 'Paratge de fichier'  "
+question = "Comment dire en anglais 'Partage de fichier'  "
 answers = ["File transfer"]
-alternatives = ["Transfered file","Filed trasnfer"]
+alternatives = ["Transfered file","Filed transfer"]
 
 [[dev.questions]]
 question = "Comment dire en anglais 'Télécharger'  "
@@ -1131,7 +1131,7 @@ alternatives = ["Work with developpers","Cooperate with developers"]
 [[dev.questions]]
 question = "Comment dire en anglais 'Utiliser des outils de développement'  "
 answers = ["Use development tools"]
-alternatives = ["Using tools development","Use tools development tools"]
+alternatives = ["Using tools development","Use tools development"]
 
 [[dev.questions]]
 question = "Comment dire en anglais 'Créer des applications ergonomiques'  "
@@ -1236,7 +1236,7 @@ alternatives = ["Maintain in operational condition thee software","Hold the soft
 [[dev.questions]]
 question = "Comment dire en anglais 'Mettre en production à l’issue des phases de qualification et d’intégration'  "
 answers = ["Put into production at the end of the qualification and integration phases"]
-alternatives = ["Put  production at the end of the integration phase","Put into production the end of qualification and integration phases"]
+alternatives = ["Put production at the end of the integration phase","Put into production the end of qualification and integration phases"]
 
 [[dev.questions]]
 question = "Comment dire en anglais 'Rédiger le code source qui constitue le corps du logiciel'  "
