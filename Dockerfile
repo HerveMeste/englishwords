@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y git
 WORKDIR /app
 
 # Clonez le dépôt Git dans le répertoire de travail
-RUN git clone https://github.com/Coco2lo/Quizz_Game.git .
+RUN git clone https://github.com/HerveMeste/englishwords.git .
 RUN pip install tomli
 # Exécutez votre script Python
 CMD [ "python", "quiz.py" ]
