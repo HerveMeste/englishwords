@@ -11,5 +11,5 @@ WORKDIR /app
 RUN git clone https://github.com/HerveMeste/englishwords.git .
 RUN pip install tomli
 # Exécutez votre script Python
-CMD [ "py", "quiz.py" ]
+CMD [ "python", "quiz.py" ]
 
