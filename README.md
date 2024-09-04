@@ -1,6 +1,6 @@
 # Quizz_Game
 
-Quizz d'aide à la révision pour la promotion <b>CESI MICSI 2021</b> de Grenoble.
+Quizz d'aide à la révision pour la promotion <b>CESI MICSI / MAALSI</b>.
 
 Programme simple qui simule un questionnaire à choix multiple. 
 
